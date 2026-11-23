@@ -3,7 +3,7 @@
 This part of the pipeline pulls the most-used OpenStreetMap keys from the Taginfo API, saves the raw data, and publishes every record to a Kafka topic as JSON.
 
 ## Prerequisites
-- Python 3.13
+- Python 3.10+
 - Docker Desktop (running)
 
 ## Quick start
