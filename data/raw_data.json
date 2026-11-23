@@ -15,7 +15,7 @@
     "projects": 76,
     "rank": 1,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "source",
@@ -33,7 +33,7 @@
     "projects": 11,
     "rank": 2,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "highway",
@@ -51,7 +51,7 @@
     "projects": 125,
     "rank": 3,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "addr:housenumber",
@@ -69,7 +69,7 @@
     "projects": 61,
     "rank": 4,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "addr:street",
@@ -87,7 +87,7 @@
     "projects": 42,
     "rank": 5,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "addr:city",
@@ -105,7 +105,7 @@
     "projects": 23,
     "rank": 6,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "addr:postcode",
@@ -123,7 +123,7 @@
     "projects": 25,
     "rank": 7,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "name",
@@ -141,7 +141,7 @@
     "projects": 162,
     "rank": 8,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "natural",
@@ -159,7 +159,7 @@
     "projects": 84,
     "rank": 9,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "surface",
@@ -177,7 +177,7 @@
     "projects": 59,
     "rank": 10,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "landuse",
@@ -195,7 +195,7 @@
     "projects": 68,
     "rank": 11,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "addr:country",
@@ -213,7 +213,7 @@
     "projects": 16,
     "rank": 12,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "power",
@@ -231,7 +231,7 @@
     "projects": 44,
     "rank": 13,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "building:levels",
@@ -249,7 +249,7 @@
     "projects": 19,
     "rank": 14,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "waterway",
@@ -267,7 +267,7 @@
     "projects": 64,
     "rank": 15,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "amenity",
@@ -285,7 +285,7 @@
     "projects": 166,
     "rank": 16,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "barrier",
@@ -303,7 +303,7 @@
     "projects": 68,
     "rank": 17,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "service",
@@ -321,7 +321,7 @@
     "projects": 37,
     "rank": 18,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "source:date",
@@ -339,7 +339,7 @@
     "projects": 3,
     "rank": 19,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "addr:state",
@@ -357,7 +357,7 @@
     "projects": 6,
     "rank": 20,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "height",
@@ -375,7 +375,7 @@
     "projects": 44,
     "rank": 21,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "access",
@@ -393,7 +393,7 @@
     "projects": 103,
     "rank": 22,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "oneway",
@@ -411,7 +411,7 @@
     "projects": 54,
     "rank": 23,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "ref",
@@ -429,7 +429,7 @@
     "projects": 98,
     "rank": 24,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "maxspeed",
@@ -447,7 +447,7 @@
     "projects": 38,
     "rank": 25,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "lanes",
@@ -465,7 +465,7 @@
     "projects": 33,
     "rank": 26,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "start_date",
@@ -483,7 +483,7 @@
     "projects": 31,
     "rank": 27,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "addr:district",
@@ -501,7 +501,7 @@
     "projects": 6,
     "rank": 28,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "operator",
@@ -519,7 +519,7 @@
     "projects": 88,
     "rank": 29,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "layer",
@@ -537,7 +537,7 @@
     "projects": 33,
     "rank": 30,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "crossing",
@@ -555,7 +555,7 @@
     "projects": 24,
     "rank": 31,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "lit",
@@ -573,7 +573,7 @@
     "projects": 31,
     "rank": 32,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "footway",
@@ -591,7 +591,7 @@
     "projects": 27,
     "rank": 33,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "type",
@@ -609,7 +609,7 @@
     "projects": 49,
     "rank": 34,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "ele",
@@ -627,7 +627,7 @@
     "projects": 34,
     "rank": 35,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "source:addr",
@@ -645,7 +645,7 @@
     "projects": 3,
     "rank": 36,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "wall",
@@ -663,7 +663,7 @@
     "projects": 13,
     "rank": 37,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "tiger:cfcc",
@@ -681,7 +681,7 @@
     "projects": 1,
     "rank": 38,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "tiger:county",
@@ -699,7 +699,7 @@
     "projects": 2,
     "rank": 39,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "leisure",
@@ -717,7 +717,7 @@
     "projects": 97,
     "rank": 40,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "leaf_type",
@@ -735,7 +735,7 @@
     "projects": 31,
     "rank": 41,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "crossing:markings",
@@ -753,7 +753,7 @@
     "projects": 23,
     "rank": 42,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "addr:place",
@@ -771,7 +771,7 @@
     "projects": 23,
     "rank": 43,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "ref:bag",
@@ -789,7 +789,7 @@
     "projects": 2,
     "rank": 44,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "addr:suburb",
@@ -807,7 +807,7 @@
     "projects": 12,
     "rank": 45,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "addr:full",
@@ -825,7 +825,7 @@
     "projects": 3,
     "rank": 46,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "tracktype",
@@ -843,7 +843,7 @@
     "projects": 29,
     "rank": 47,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "addr:neighbourhood",
@@ -861,7 +861,7 @@
     "projects": 5,
     "rank": 48,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "tiger:reviewed",
@@ -879,7 +879,7 @@
     "projects": 1,
     "rank": 49,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "addr:province",
@@ -897,7 +897,7 @@
     "projects": 7,
     "rank": 50,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "man_made",
@@ -915,7 +915,7 @@
     "projects": 81,
     "rank": 51,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "addr:hamlet",
@@ -933,7 +933,7 @@
     "projects": 6,
     "rank": 52,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "roof:shape",
@@ -951,7 +951,7 @@
     "projects": 12,
     "rank": 53,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "bicycle",
@@ -969,7 +969,7 @@
     "projects": 50,
     "rank": 54,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "place",
@@ -987,7 +987,7 @@
     "projects": 49,
     "rank": 55,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "addr:TW:dataset",
@@ -1005,7 +1005,7 @@
     "projects": 0,
     "rank": 56,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "foot",
@@ -1023,7 +1023,7 @@
     "projects": 37,
     "rank": 57,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "railway",
@@ -1041,7 +1041,7 @@
     "projects": 75,
     "rank": 58,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "tiger:name_base",
@@ -1059,7 +1059,7 @@
     "projects": 1,
     "rank": 59,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "source:geometry:date",
@@ -1077,7 +1077,7 @@
     "projects": 1,
     "rank": 60,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "name:en",
@@ -1095,7 +1095,7 @@
     "projects": 23,
     "rank": 61,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "intermittent",
@@ -1113,7 +1113,7 @@
     "projects": 25,
     "rank": 62,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "bridge",
@@ -1131,7 +1131,7 @@
     "projects": 44,
     "rank": 63,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "shop",
@@ -1149,7 +1149,7 @@
     "projects": 80,
     "rank": 64,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "source:geometry",
@@ -1167,7 +1167,7 @@
     "projects": 3,
     "rank": 65,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "smoothness",
@@ -1185,7 +1185,7 @@
     "projects": 22,
     "rank": 66,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "tiger:name_type",
@@ -1203,7 +1203,7 @@
     "projects": 1,
     "rank": 67,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "ref:GB:uprn",
@@ -1221,7 +1221,7 @@
     "projects": 3,
     "rank": 68,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "generator:source",
@@ -1239,7 +1239,7 @@
     "projects": 32,
     "rank": 69,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "generator:method",
@@ -1257,7 +1257,7 @@
     "projects": 16,
     "rank": 70,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "public_transport",
@@ -1275,7 +1275,7 @@
     "projects": 43,
     "rank": 71,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "generator:type",
@@ -1293,7 +1293,7 @@
     "projects": 10,
     "rank": 72,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "leaf_cycle",
@@ -1311,7 +1311,7 @@
     "projects": 15,
     "rank": 73,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "tactile_paving",
@@ -1329,7 +1329,7 @@
     "projects": 24,
     "rank": 74,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "operator:wikidata",
@@ -1347,7 +1347,7 @@
     "projects": 9,
     "rank": 75,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "generator:output:electricity",
@@ -1365,7 +1365,7 @@
     "projects": 9,
     "rank": 76,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "material",
@@ -1383,7 +1383,7 @@
     "projects": 27,
     "rank": 77,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "tunnel",
@@ -1401,7 +1401,7 @@
     "projects": 45,
     "rank": 78,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "water",
@@ -1419,7 +1419,7 @@
     "projects": 30,
     "rank": 79,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "entrance",
@@ -1437,7 +1437,7 @@
     "projects": 29,
     "rank": 80,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "direction",
@@ -1455,7 +1455,7 @@
     "projects": 45,
     "rank": 81,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "roof:levels",
@@ -1473,7 +1473,7 @@
     "projects": 8,
     "rank": 82,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "bus",
@@ -1491,7 +1491,7 @@
     "projects": 28,
     "rank": 83,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "building:part",
@@ -1509,7 +1509,7 @@
     "projects": 23,
     "rank": 84,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "opening_hours",
@@ -1527,7 +1527,7 @@
     "projects": 94,
     "rank": 85,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "parking",
@@ -1545,7 +1545,7 @@
     "projects": 26,
     "rank": 86,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "website",
@@ -1563,7 +1563,7 @@
     "projects": 94,
     "rank": 87,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "addr:city:simc",
@@ -1581,7 +1581,7 @@
     "projects": 0,
     "rank": 88,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "sidewalk",
@@ -1599,7 +1599,7 @@
     "projects": 19,
     "rank": 89,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "addr:floor",
@@ -1617,7 +1617,7 @@
     "projects": 2,
     "rank": 90,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "wikidata",
@@ -1635,7 +1635,7 @@
     "projects": 117,
     "rank": 91,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "note",
@@ -1653,7 +1653,7 @@
     "projects": 19,
     "rank": 92,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "location",
@@ -1671,7 +1671,7 @@
     "projects": 69,
     "rank": 93,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "attribution",
@@ -1689,7 +1689,7 @@
     "projects": 1,
     "rank": 94,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "nysgissam:nysaddresspointid",
@@ -1707,7 +1707,7 @@
     "projects": 0,
     "rank": 95,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "addr:unit",
@@ -1725,7 +1725,7 @@
     "projects": 23,
     "rank": 96,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "addr:conscriptionnumber",
@@ -1743,7 +1743,7 @@
     "projects": 7,
     "rank": 97,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "voltage",
@@ -1761,7 +1761,7 @@
     "projects": 15,
     "rank": 98,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "created_by",
@@ -1779,7 +1779,7 @@
     "projects": 3,
     "rank": 99,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "tourism",
@@ -1797,7 +1797,7 @@
     "projects": 91,
     "rank": 100,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "tiger:zip_left",
@@ -1815,7 +1815,7 @@
     "projects": 3,
     "rank": 101,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "wheelchair",
@@ -1833,7 +1833,7 @@
     "projects": 75,
     "rank": 102,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "source:geometry:ref",
@@ -1851,7 +1851,7 @@
     "projects": 1,
     "rank": 103,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "ref:bygningsnr",
@@ -1869,7 +1869,7 @@
     "projects": 0,
     "rank": 104,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "width",
@@ -1887,7 +1887,7 @@
     "projects": 41,
     "rank": 105,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "network",
@@ -1905,7 +1905,7 @@
     "projects": 36,
     "rank": 106,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "house",
@@ -1923,7 +1923,7 @@
     "projects": 3,
     "rank": 107,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "ref:ruian:building",
@@ -1941,7 +1941,7 @@
     "projects": 2,
     "rank": 108,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "crossing:island",
@@ -1959,7 +1959,7 @@
     "projects": 16,
     "rank": 109,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "tiger:zip_right",
@@ -1977,7 +1977,7 @@
     "projects": 3,
     "rank": 110,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "check_date",
@@ -1995,7 +1995,7 @@
     "projects": 17,
     "rank": 111,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "phone",
@@ -2013,7 +2013,7 @@
     "projects": 79,
     "rank": 112,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "capacity",
@@ -2031,7 +2031,7 @@
     "projects": 30,
     "rank": 113,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "building:ruian:type",
@@ -2049,7 +2049,7 @@
     "projects": 0,
     "rank": 114,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "addr:subdistrict",
@@ -2067,7 +2067,7 @@
     "projects": 6,
     "rank": 115,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "denotation",
@@ -2085,7 +2085,7 @@
     "projects": 15,
     "rank": 116,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "emergency",
@@ -2103,7 +2103,7 @@
     "projects": 58,
     "rank": 117,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "sport",
@@ -2121,7 +2121,7 @@
     "projects": 62,
     "rank": 118,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "import",
@@ -2139,7 +2139,7 @@
     "projects": 1,
     "rank": 119,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "brand",
@@ -2157,7 +2157,7 @@
     "projects": 46,
     "rank": 120,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "description",
@@ -2175,7 +2175,7 @@
     "projects": 62,
     "rank": 121,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "gauge",
@@ -2193,7 +2193,7 @@
     "projects": 8,
     "rank": 122,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "kerb",
@@ -2211,7 +2211,7 @@
     "projects": 21,
     "rank": 123,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "wetland",
@@ -2229,7 +2229,7 @@
     "projects": 24,
     "rank": 124,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "golf",
@@ -2247,7 +2247,7 @@
     "projects": 18,
     "rank": 125,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "ref:ruian:addr",
@@ -2265,7 +2265,7 @@
     "projects": 0,
     "rank": 126,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "brand:wikidata",
@@ -2283,7 +2283,7 @@
     "projects": 10,
     "rank": 127,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "lacounty:bld_id",
@@ -2301,7 +2301,7 @@
     "projects": 0,
     "rank": 128,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "lacounty:ain",
@@ -2319,7 +2319,7 @@
     "projects": 0,
     "rank": 129,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "electrified",
@@ -2337,7 +2337,7 @@
     "projects": 11,
     "rank": 130,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "motor_vehicle",
@@ -2355,7 +2355,7 @@
     "projects": 30,
     "rank": 131,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "alt_name",
@@ -2373,7 +2373,7 @@
     "projects": 28,
     "rank": 132,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "source:maxspeed",
@@ -2391,7 +2391,7 @@
     "projects": 4,
     "rank": 133,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "addr:municipality",
@@ -2409,7 +2409,7 @@
     "projects": 0,
     "rank": 134,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "roof:colour",
@@ -2427,7 +2427,7 @@
     "projects": 10,
     "rank": 135,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "lane_markings",
@@ -2445,7 +2445,7 @@
     "projects": 14,
     "rank": 136,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "source:building",
@@ -2463,7 +2463,7 @@
     "projects": 0,
     "rank": 137,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "building:units",
@@ -2481,7 +2481,7 @@
     "projects": 0,
     "rank": 138,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "addr:district:en",
@@ -2499,7 +2499,7 @@
     "projects": 1,
     "rank": 139,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "fee",
@@ -2517,7 +2517,7 @@
     "projects": 67,
     "rank": 140,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "boundary",
@@ -2535,7 +2535,7 @@
     "projects": 50,
     "rank": 141,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "cycleway:both",
@@ -2553,7 +2553,7 @@
     "projects": 20,
     "rank": 142,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "addr:province:en",
@@ -2571,7 +2571,7 @@
     "projects": 1,
     "rank": 143,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "frequency",
@@ -2589,7 +2589,7 @@
     "projects": 12,
     "rank": 144,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "noexit",
@@ -2607,7 +2607,7 @@
     "projects": 10,
     "rank": 145,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "osak:identifier",
@@ -2625,7 +2625,7 @@
     "projects": 0,
     "rank": 146,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "building:material",
@@ -2643,7 +2643,7 @@
     "projects": 12,
     "rank": 147,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "addr:interpolation",
@@ -2661,7 +2661,7 @@
     "projects": 19,
     "rank": 148,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "survey:date",
@@ -2679,7 +2679,7 @@
     "projects": 14,
     "rank": 149,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "source_ref",
@@ -2697,7 +2697,7 @@
     "projects": 1,
     "rank": 150,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "level",
@@ -2715,7 +2715,7 @@
     "projects": 64,
     "rank": 151,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "roof:material",
@@ -2733,7 +2733,7 @@
     "projects": 8,
     "rank": 152,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "covered",
@@ -2751,7 +2751,7 @@
     "projects": 38,
     "rank": 153,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "building:flats",
@@ -2769,7 +2769,7 @@
     "projects": 3,
     "rank": 154,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "ref:RS:kucni_broj",
@@ -2787,7 +2787,7 @@
     "projects": 1,
     "rank": 155,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "backrest",
@@ -2805,7 +2805,7 @@
     "projects": 23,
     "rank": 156,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "wikipedia",
@@ -2823,7 +2823,7 @@
     "projects": 107,
     "rank": 157,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "historic",
@@ -2841,7 +2841,7 @@
     "projects": 69,
     "rank": 158,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "addr:street:en",
@@ -2859,7 +2859,7 @@
     "projects": 1,
     "rank": 159,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "restriction",
@@ -2877,7 +2877,7 @@
     "projects": 14,
     "rank": 160,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "ref:linz:address_id",
@@ -2895,7 +2895,7 @@
     "projects": 2,
     "rank": 161,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "fire_hydrant:type",
@@ -2913,7 +2913,7 @@
     "projects": 18,
     "rank": 162,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "shelter",
@@ -2931,7 +2931,7 @@
     "projects": 23,
     "rank": 163,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "species",
@@ -2949,7 +2949,7 @@
     "projects": 17,
     "rank": 164,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "admin_level",
@@ -2967,7 +2967,7 @@
     "projects": 37,
     "rank": 165,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "name:zh",
@@ -2985,7 +2985,7 @@
     "projects": 8,
     "rank": 166,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "addr:subdistrict:en",
@@ -3003,7 +3003,7 @@
     "projects": 1,
     "rank": 167,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "NHD:FCode",
@@ -3021,7 +3021,7 @@
     "projects": 0,
     "rank": 168,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "horse",
@@ -3039,7 +3039,7 @@
     "projects": 29,
     "rank": 169,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "area",
@@ -3057,7 +3057,7 @@
     "projects": 28,
     "rank": 170,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "religion",
@@ -3075,7 +3075,7 @@
     "projects": 39,
     "rank": 171,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "name:etymology:wikidata",
@@ -3093,7 +3093,7 @@
     "projects": 9,
     "rank": 172,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "NHD:ComID",
@@ -3111,7 +3111,7 @@
     "projects": 0,
     "rank": 173,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "usage",
@@ -3129,7 +3129,7 @@
     "projects": 15,
     "rank": 174,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "tiger:tlid",
@@ -3147,7 +3147,7 @@
     "projects": 3,
     "rank": 175,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "tiger:source",
@@ -3165,7 +3165,7 @@
     "projects": 3,
     "rank": 176,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "NHD:ReachCode",
@@ -3183,7 +3183,7 @@
     "projects": 0,
     "rank": 177,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "name:ru",
@@ -3201,7 +3201,7 @@
     "projects": 7,
     "rank": 178,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "bench",
@@ -3219,7 +3219,7 @@
     "projects": 22,
     "rank": 179,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "segregated",
@@ -3237,7 +3237,7 @@
     "projects": 16,
     "rank": 180,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "fixme",
@@ -3255,7 +3255,7 @@
     "projects": 27,
     "rank": 181,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "source:addr:postcode",
@@ -3273,7 +3273,7 @@
     "projects": 0,
     "rank": 182,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "genus",
@@ -3291,7 +3291,7 @@
     "projects": 14,
     "rank": 183,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "incline",
@@ -3309,7 +3309,7 @@
     "projects": 17,
     "rank": 184,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "crossing:signals",
@@ -3327,7 +3327,7 @@
     "projects": 11,
     "rank": 185,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "traffic_sign",
@@ -3345,7 +3345,7 @@
     "projects": 30,
     "rank": 186,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "lamp_type",
@@ -3363,7 +3363,7 @@
     "projects": 11,
     "rank": 187,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "support",
@@ -3381,7 +3381,7 @@
     "projects": 15,
     "rank": 188,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "tiger:upload_uuid",
@@ -3399,7 +3399,7 @@
     "projects": 3,
     "rank": 189,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "colour",
@@ -3417,7 +3417,7 @@
     "projects": 37,
     "rank": 190,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "hgv",
@@ -3435,7 +3435,7 @@
     "projects": 17,
     "rank": 191,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "parking_space",
@@ -3453,7 +3453,7 @@
     "projects": 15,
     "rank": 192,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "cables",
@@ -3471,7 +3471,7 @@
     "projects": 10,
     "rank": 193,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "ford",
@@ -3489,7 +3489,7 @@
     "projects": 22,
     "rank": 194,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "traffic_calming",
@@ -3507,7 +3507,7 @@
     "projects": 22,
     "rank": 195,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "source:name",
@@ -3525,7 +3525,7 @@
     "projects": 1,
     "rank": 196,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "design",
@@ -3543,7 +3543,7 @@
     "projects": 7,
     "rank": 197,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "yh:WIDTH",
@@ -3561,7 +3561,7 @@
     "projects": 2,
     "rank": 198,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "operator:type",
@@ -3579,7 +3579,7 @@
     "projects": 15,
     "rank": 199,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "network:wikidata",
@@ -3597,7 +3597,7 @@
     "projects": 6,
     "rank": 200,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "maxspeed:type",
@@ -3615,7 +3615,7 @@
     "projects": 4,
     "rank": 201,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "lamp_mount",
@@ -3633,7 +3633,7 @@
     "projects": 8,
     "rank": 202,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "cuisine",
@@ -3651,7 +3651,7 @@
     "projects": 31,
     "rank": 203,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "addr:housename",
@@ -3669,7 +3669,7 @@
     "projects": 21,
     "rank": 204,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "addr:street:sym_ul",
@@ -3687,7 +3687,7 @@
     "projects": 0,
     "rank": 205,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "information",
@@ -3705,7 +3705,7 @@
     "projects": 48,
     "rank": 206,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "building:colour",
@@ -3723,7 +3723,7 @@
     "projects": 11,
     "rank": 207,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "gnis:feature_id",
@@ -3741,7 +3741,7 @@
     "projects": 6,
     "rank": 208,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "NHD:FType",
@@ -3759,7 +3759,7 @@
     "projects": 0,
     "rank": 209,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "NHD:way_id",
@@ -3777,7 +3777,7 @@
     "projects": 0,
     "rank": 210,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "ref:minvskaddress",
@@ -3795,7 +3795,7 @@
     "projects": 0,
     "rank": 211,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "lanes:backward",
@@ -3813,7 +3813,7 @@
     "projects": 13,
     "rank": 212,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "office",
@@ -3831,7 +3831,7 @@
     "projects": 40,
     "rank": 213,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "lanes:forward",
@@ -3849,7 +3849,7 @@
     "projects": 13,
     "rank": 214,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "roof:orientation",
@@ -3867,7 +3867,7 @@
     "projects": 10,
     "rank": 215,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "name:ja",
@@ -3885,7 +3885,7 @@
     "projects": 8,
     "rank": 216,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "route",
@@ -3903,7 +3903,7 @@
     "projects": 62,
     "rank": 217,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "crop",
@@ -3921,7 +3921,7 @@
     "projects": 10,
     "rank": 218,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "residential",
@@ -3939,7 +3939,7 @@
     "projects": 11,
     "rank": 219,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "fire_hydrant:position",
@@ -3957,7 +3957,7 @@
     "projects": 11,
     "rank": 220,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "cycleway",
@@ -3975,7 +3975,7 @@
     "projects": 26,
     "rank": 221,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "nhd:reach_code",
@@ -3993,7 +3993,7 @@
     "projects": 0,
     "rank": 222,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "postal_code",
@@ -4011,7 +4011,7 @@
     "projects": 10,
     "rank": 223,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "bin",
@@ -4029,7 +4029,7 @@
     "projects": 17,
     "rank": 224,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "addr:streetnumber",
@@ -4047,7 +4047,7 @@
     "projects": 6,
     "rank": 225,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "junction",
@@ -4065,7 +4065,7 @@
     "projects": 37,
     "rank": 226,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "tiger:name_base_1",
@@ -4083,7 +4083,7 @@
     "projects": 1,
     "rank": 227,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "name:uk",
@@ -4101,7 +4101,7 @@
     "projects": 7,
     "rank": 228,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "nhd:com_id",
@@ -4119,7 +4119,7 @@
     "projects": 0,
     "rank": 229,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "turn:lanes",
@@ -4137,7 +4137,7 @@
     "projects": 13,
     "rank": 230,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "tiger:name_direction_prefix",
@@ -4155,7 +4155,7 @@
     "projects": 1,
     "rank": 231,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "tiger:separated",
@@ -4173,7 +4173,7 @@
     "projects": 3,
     "rank": 232,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "source:position",
@@ -4191,7 +4191,7 @@
     "projects": 1,
     "rank": 233,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "yh:TYPE",
@@ -4209,7 +4209,7 @@
     "projects": 2,
     "rank": 234,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "yh:STRUCTURE",
@@ -4227,7 +4227,7 @@
     "projects": 2,
     "rank": 235,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "ref:linz:building_id",
@@ -4245,7 +4245,7 @@
     "projects": 2,
     "rank": 236,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "name:ar",
@@ -4263,7 +4263,7 @@
     "projects": 7,
     "rank": 237,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "sidewalk:right",
@@ -4281,7 +4281,7 @@
     "projects": 14,
     "rank": 238,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "at_bev:addr_date",
@@ -4299,7 +4299,7 @@
     "projects": 0,
     "rank": 239,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "sidewalk:left",
@@ -4317,7 +4317,7 @@
     "projects": 14,
     "rank": 240,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "cycleway:right",
@@ -4335,7 +4335,7 @@
     "projects": 27,
     "rank": 241,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "mml:class",
@@ -4353,7 +4353,7 @@
     "projects": 0,
     "rank": 242,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "fire_hydrant:diameter",
@@ -4371,7 +4371,7 @@
     "projects": 11,
     "rank": 243,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "aeroway",
@@ -4389,7 +4389,7 @@
     "projects": 50,
     "rank": 244,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "healthcare",
@@ -4407,7 +4407,7 @@
     "projects": 43,
     "rank": 245,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "yh:TOTYUMONO",
@@ -4425,7 +4425,7 @@
     "projects": 2,
     "rank": 246,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "yh:WIDTH_RANK",
@@ -4443,7 +4443,7 @@
     "projects": 2,
     "rank": 247,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "indoor",
@@ -4461,7 +4461,7 @@
     "projects": 46,
     "rank": 248,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "raba:id",
@@ -4479,7 +4479,7 @@
     "projects": 1,
     "rank": 249,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "addr:county",
@@ -4497,7 +4497,7 @@
     "projects": 3,
     "rank": 250,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "sidewalk:both",
@@ -4515,7 +4515,7 @@
     "projects": 11,
     "rank": 251,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "nycdoitt:bin",
@@ -4533,7 +4533,7 @@
     "projects": 2,
     "rank": 252,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "nhd:fdate",
@@ -4551,7 +4551,7 @@
     "projects": 0,
     "rank": 253,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "traffic_signals",
@@ -4569,7 +4569,7 @@
     "projects": 4,
     "rank": 254,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "denomination",
@@ -4587,7 +4587,7 @@
     "projects": 27,
     "rank": 255,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "old_ref",
@@ -4605,7 +4605,7 @@
     "projects": 7,
     "rank": 256,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "contact:phone",
@@ -4623,7 +4623,7 @@
     "projects": 65,
     "rank": 257,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "fence_type",
@@ -4641,7 +4641,7 @@
     "projects": 12,
     "rank": 258,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "construction",
@@ -4659,7 +4659,7 @@
     "projects": 25,
     "rank": 259,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "mtb:scale",
@@ -4677,7 +4677,7 @@
     "projects": 10,
     "rank": 260,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "noname",
@@ -4695,7 +4695,7 @@
     "projects": 30,
     "rank": 261,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "email",
@@ -4713,7 +4713,7 @@
     "projects": 60,
     "rank": 262,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "old_name",
@@ -4731,7 +4731,7 @@
     "projects": 17,
     "rank": 263,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "destination",
@@ -4749,7 +4749,7 @@
     "projects": 13,
     "rank": 264,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "circumference",
@@ -4767,7 +4767,7 @@
     "projects": 15,
     "rank": 265,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "official_name",
@@ -4785,7 +4785,7 @@
     "projects": 26,
     "rank": 266,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "ref:FR:FANTOIR",
@@ -4803,7 +4803,7 @@
     "projects": 2,
     "rank": 267,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "addr:city:en",
@@ -4821,7 +4821,7 @@
     "projects": 1,
     "rank": 268,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "trail_visibility",
@@ -4839,7 +4839,7 @@
     "projects": 15,
     "rank": 269,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "sac_scale",
@@ -4857,7 +4857,7 @@
     "projects": 18,
     "rank": 270,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "motorcycle",
@@ -4875,7 +4875,7 @@
     "projects": 11,
     "rank": 271,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "name:ko",
@@ -4893,7 +4893,7 @@
     "projects": 7,
     "rank": 272,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "name:fr",
@@ -4911,7 +4911,7 @@
     "projects": 9,
     "rank": 273,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "tower:type",
@@ -4929,7 +4929,7 @@
     "projects": 42,
     "rank": 274,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "addr:region",
@@ -4947,7 +4947,7 @@
     "projects": 0,
     "rank": 275,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "int_name",
@@ -4965,7 +4965,7 @@
     "projects": 14,
     "rank": 276,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "contact:website",
@@ -4983,7 +4983,7 @@
     "projects": 67,
     "rank": 277,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "population",
@@ -5001,7 +5001,7 @@
     "projects": 20,
     "rank": 278,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "source:url",
@@ -5019,7 +5019,7 @@
     "projects": 1,
     "rank": 279,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "building:levels:underground",
@@ -5037,7 +5037,7 @@
     "projects": 6,
     "rank": 280,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "circuits",
@@ -5055,7 +5055,7 @@
     "projects": 7,
     "rank": 281,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "operator:short",
@@ -5073,7 +5073,7 @@
     "projects": 3,
     "rank": 282,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "traffic_signals:direction",
@@ -5091,7 +5091,7 @@
     "projects": 11,
     "rank": 283,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "motorcar",
@@ -5109,7 +5109,7 @@
     "projects": 26,
     "rank": 284,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "brand:wikipedia",
@@ -5127,7 +5127,7 @@
     "projects": 5,
     "rank": 285,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "zone:traffic",
@@ -5145,7 +5145,7 @@
     "projects": 5,
     "rank": 286,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "pmfsefin:idedif",
@@ -5163,7 +5163,7 @@
     "projects": 0,
     "rank": 287,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "bicycle_parking",
@@ -5181,7 +5181,7 @@
     "projects": 17,
     "rank": 288,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "gnis:fcode",
@@ -5199,7 +5199,7 @@
     "projects": 0,
     "rank": 289,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "passenger_lines",
@@ -5217,7 +5217,7 @@
     "projects": 0,
     "rank": 290,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "ref:GDF_CIU",
@@ -5235,7 +5235,7 @@
     "projects": 0,
     "rank": 291,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "maaamet:ETAK",
@@ -5253,7 +5253,7 @@
     "projects": 1,
     "rank": 292,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "gnis:ftype",
@@ -5271,7 +5271,7 @@
     "projects": 0,
     "rank": 293,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "name:ca",
@@ -5289,7 +5289,7 @@
     "projects": 7,
     "rank": 294,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "orientation",
@@ -5307,7 +5307,7 @@
     "projects": 6,
     "rank": 295,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "name_1",
@@ -5325,7 +5325,7 @@
     "projects": 1,
     "rank": 296,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "handrail",
@@ -5343,7 +5343,7 @@
     "projects": 15,
     "rank": 297,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "diameter_crown",
@@ -5361,7 +5361,7 @@
     "projects": 15,
     "rank": 298,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "seamark:type",
@@ -5379,7 +5379,7 @@
     "projects": 20,
     "rank": 299,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "toll",
@@ -5397,7 +5397,7 @@
     "projects": 16,
     "rank": 300,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "building:use",
@@ -5415,7 +5415,7 @@
     "projects": 3,
     "rank": 301,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "chicago:building_id",
@@ -5433,7 +5433,7 @@
     "projects": 0,
     "rank": 302,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "structure",
@@ -5451,7 +5451,7 @@
     "projects": 7,
     "rank": 303,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "operator:wikipedia",
@@ -5469,7 +5469,7 @@
     "projects": 2,
     "rank": 304,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "button_operated",
@@ -5487,7 +5487,7 @@
     "projects": 12,
     "rank": 305,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "line_attachment",
@@ -5505,7 +5505,7 @@
     "projects": 6,
     "rank": 306,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "utility",
@@ -5523,7 +5523,7 @@
     "projects": 14,
     "rank": 307,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "generator:plant",
@@ -5541,7 +5541,7 @@
     "projects": 3,
     "rank": 308,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "water_source",
@@ -5559,7 +5559,7 @@
     "projects": 8,
     "rank": 309,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "seasonal",
@@ -5577,7 +5577,7 @@
     "projects": 24,
     "rank": 310,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "cycleway:left",
@@ -5595,7 +5595,7 @@
     "projects": 27,
     "rank": 311,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "addr:inclusion",
@@ -5613,7 +5613,7 @@
     "projects": 3,
     "rank": 312,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "addr:flats",
@@ -5631,7 +5631,7 @@
     "projects": 9,
     "rank": 313,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "addr:place:en",
@@ -5649,7 +5649,7 @@
     "projects": 1,
     "rank": 314,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "note:ja",
@@ -5667,7 +5667,7 @@
     "projects": 0,
     "rank": 315,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "substation",
@@ -5685,7 +5685,7 @@
     "projects": 9,
     "rank": 316,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "designation",
@@ -5703,7 +5703,7 @@
     "projects": 11,
     "rank": 317,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "name:zh-Hant",
@@ -5721,7 +5721,7 @@
     "projects": 2,
     "rank": 318,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "NHD:FDate",
@@ -5739,7 +5739,7 @@
     "projects": 0,
     "rank": 319,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "NHD:FTYPE",
@@ -5757,7 +5757,7 @@
     "projects": 0,
     "rank": 320,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "LINZ:source_version",
@@ -5775,7 +5775,7 @@
     "projects": 1,
     "rank": 321,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "int_ref",
@@ -5793,7 +5793,7 @@
     "projects": 8,
     "rank": 322,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "seats",
@@ -5811,7 +5811,7 @@
     "projects": 15,
     "rank": 323,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "parking:both",
@@ -5829,7 +5829,7 @@
     "projects": 8,
     "rank": 324,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "roof:height",
@@ -5847,7 +5847,7 @@
     "projects": 10,
     "rank": 325,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "ref:LV:addr",
@@ -5865,7 +5865,7 @@
     "projects": 0,
     "rank": 326,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "light:count",
@@ -5883,7 +5883,7 @@
     "projects": 5,
     "rank": 327,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "recycling_type",
@@ -5901,7 +5901,7 @@
     "projects": 20,
     "rank": 328,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "name:de",
@@ -5919,7 +5919,7 @@
     "projects": 15,
     "rank": 329,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "LINZ:layer",
@@ -5937,7 +5937,7 @@
     "projects": 1,
     "rank": 330,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "it:fvg:ctrn:code",
@@ -5955,7 +5955,7 @@
     "projects": 0,
     "rank": 331,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "it:fvg:ctrn:revision",
@@ -5973,7 +5973,7 @@
     "projects": 0,
     "rank": 332,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "LINZ:dataset",
@@ -5991,7 +5991,7 @@
     "projects": 1,
     "rank": 333,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "surveillance:type",
@@ -6009,7 +6009,7 @@
     "projects": 10,
     "rank": 334,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "short_name",
@@ -6027,7 +6027,7 @@
     "projects": 16,
     "rank": 335,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "species:wikidata",
@@ -6045,7 +6045,7 @@
     "projects": 9,
     "rank": 336,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "internet_access",
@@ -6063,7 +6063,7 @@
     "projects": 45,
     "rank": 337,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "step_count",
@@ -6081,7 +6081,7 @@
     "projects": 15,
     "rank": 338,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "ramp",
@@ -6099,7 +6099,7 @@
     "projects": 10,
     "rank": 339,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "shelter_type",
@@ -6117,7 +6117,7 @@
     "projects": 28,
     "rank": 340,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "population:date",
@@ -6135,7 +6135,7 @@
     "projects": 2,
     "rank": 341,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "contact:email",
@@ -6153,7 +6153,7 @@
     "projects": 53,
     "rank": 342,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "hgv:national_network",
@@ -6171,7 +6171,7 @@
     "projects": 1,
     "rank": 343,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "branch",
@@ -6189,7 +6189,7 @@
     "projects": 6,
     "rank": 344,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "maxheight",
@@ -6207,7 +6207,7 @@
     "projects": 16,
     "rank": 345,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "railway:signal:direction",
@@ -6225,7 +6225,7 @@
     "projects": 3,
     "rank": 346,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "meadow",
@@ -6243,7 +6243,7 @@
     "projects": 8,
     "rank": 347,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "takeaway",
@@ -6261,7 +6261,7 @@
     "projects": 19,
     "rank": 348,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "traffic_signals:sound",
@@ -6279,7 +6279,7 @@
     "projects": 14,
     "rank": 349,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "door",
@@ -6297,7 +6297,7 @@
     "projects": 14,
     "rank": 350,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "source:zoomlevel",
@@ -6315,7 +6315,7 @@
     "projects": 0,
     "rank": 351,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "source:tracer",
@@ -6333,7 +6333,7 @@
     "projects": 0,
     "rank": 352,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "area:highway",
@@ -6351,7 +6351,7 @@
     "projects": 15,
     "rank": 353,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "destination:ref",
@@ -6369,7 +6369,7 @@
     "projects": 11,
     "rank": 354,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "addr:street:name",
@@ -6387,7 +6387,7 @@
     "projects": 0,
     "rank": 355,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "ref:gurs:sta_sid",
@@ -6405,7 +6405,7 @@
     "projects": 1,
     "rank": 356,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "turn:lanes:forward",
@@ -6423,7 +6423,7 @@
     "projects": 11,
     "rank": 357,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "addr:street:type",
@@ -6441,7 +6441,7 @@
     "projects": 0,
     "rank": 358,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "outdoor_seating",
@@ -6459,7 +6459,7 @@
     "projects": 31,
     "rank": 359,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "surveillance",
@@ -6477,7 +6477,7 @@
     "projects": 9,
     "rank": 360,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "landcover",
@@ -6495,7 +6495,7 @@
     "projects": 13,
     "rank": 361,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "nysgissam:review",
@@ -6513,7 +6513,7 @@
     "projects": 0,
     "rank": 362,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "from",
@@ -6531,7 +6531,7 @@
     "projects": 13,
     "rank": 363,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "vehicle",
@@ -6549,7 +6549,7 @@
     "projects": 21,
     "rank": 364,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "mapillary",
@@ -6567,7 +6567,7 @@
     "projects": 93,
     "rank": 365,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "name:fi",
@@ -6585,7 +6585,7 @@
     "projects": 6,
     "rank": 366,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "to",
@@ -6603,7 +6603,7 @@
     "projects": 14,
     "rank": 367,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "informal",
@@ -6621,7 +6621,7 @@
     "projects": 14,
     "rank": 368,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "payment:cash",
@@ -6639,7 +6639,7 @@
     "projects": 47,
     "rank": 369,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "addr:street:prefix",
@@ -6657,7 +6657,7 @@
     "projects": 0,
     "rank": 370,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "contact:facebook",
@@ -6675,7 +6675,7 @@
     "projects": 16,
     "rank": 371,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "name:be",
@@ -6693,7 +6693,7 @@
     "projects": 6,
     "rank": 372,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "route_ref",
@@ -6711,7 +6711,7 @@
     "projects": 6,
     "rank": 373,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "tiger:name_direction_suffix",
@@ -6729,7 +6729,7 @@
     "projects": 1,
     "rank": 374,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "distance",
@@ -6747,7 +6747,7 @@
     "projects": 10,
     "rank": 375,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "wires",
@@ -6765,7 +6765,7 @@
     "projects": 5,
     "rank": 376,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "owner",
@@ -6783,7 +6783,7 @@
     "projects": 4,
     "rank": 377,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "ref:AGESIC",
@@ -6801,7 +6801,7 @@
     "projects": 0,
     "rank": 378,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "railway:traffic_mode",
@@ -6819,7 +6819,7 @@
     "projects": 4,
     "rank": 379,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "light_source",
@@ -6837,7 +6837,7 @@
     "projects": 3,
     "rank": 380,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "source:imagery",
@@ -6855,7 +6855,7 @@
     "projects": 1,
     "rank": 381,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "turn:lanes:backward",
@@ -6873,7 +6873,7 @@
     "projects": 11,
     "rank": 382,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "boat",
@@ -6891,7 +6891,7 @@
     "projects": 16,
     "rank": 383,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "name:es",
@@ -6909,7 +6909,7 @@
     "projects": 8,
     "rank": 384,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "railway:track_ref",
@@ -6927,7 +6927,7 @@
     "projects": 3,
     "rank": 385,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "transformer",
@@ -6945,7 +6945,7 @@
     "projects": 8,
     "rank": 386,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "network:wikipedia",
@@ -6963,7 +6963,7 @@
     "projects": 2,
     "rank": 387,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "image",
@@ -6981,7 +6981,7 @@
     "projects": 108,
     "rank": 388,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "garden:type",
@@ -6999,7 +6999,7 @@
     "projects": 12,
     "rank": 389,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "source:hgv:national_network",
@@ -7017,7 +7017,7 @@
     "projects": 0,
     "rank": 390,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "hiking",
@@ -7035,7 +7035,7 @@
     "projects": 10,
     "rank": 391,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "camera:type",
@@ -7053,7 +7053,7 @@
     "projects": 7,
     "rank": 392,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "brand:en",
@@ -7071,7 +7071,7 @@
     "projects": 2,
     "rank": 393,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "stop",
@@ -7089,7 +7089,7 @@
     "projects": 6,
     "rank": 394,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "unsigned_ref",
@@ -7107,7 +7107,7 @@
     "projects": 2,
     "rank": 395,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "url",
@@ -7125,7 +7125,7 @@
     "projects": 13,
     "rank": 396,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "departures_board",
@@ -7143,7 +7143,7 @@
     "projects": 14,
     "rank": 397,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "species:de",
@@ -7161,7 +7161,7 @@
     "projects": 1,
     "rank": 398,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "name:pl",
@@ -7179,7 +7179,7 @@
     "projects": 7,
     "rank": 399,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "wikimedia_commons",
@@ -7197,7 +7197,7 @@
     "projects": 26,
     "rank": 400,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "shoulder",
@@ -7215,7 +7215,7 @@
     "projects": 11,
     "rank": 401,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "zone:maxspeed",
@@ -7233,7 +7233,7 @@
     "projects": 3,
     "rank": 402,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "traffic_signals:vibration",
@@ -7251,7 +7251,7 @@
     "projects": 13,
     "rank": 403,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "building:roof",
@@ -7269,7 +7269,7 @@
     "projects": 1,
     "rank": 404,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "manhole",
@@ -7287,7 +7287,7 @@
     "projects": 7,
     "rank": 405,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "public_transport:version",
@@ -7305,7 +7305,7 @@
     "projects": 5,
     "rank": 406,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "ref:codcat",
@@ -7323,7 +7323,7 @@
     "projects": 0,
     "rank": 407,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "NHS",
@@ -7341,7 +7341,7 @@
     "projects": 1,
     "rank": 408,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "substance",
@@ -7359,7 +7359,7 @@
     "projects": 16,
     "rank": 409,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "name:sr",
@@ -7377,7 +7377,7 @@
     "projects": 5,
     "rank": 410,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "railway:track_class",
@@ -7395,7 +7395,7 @@
     "projects": 2,
     "rank": 411,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "addr:provisionalnumber",
@@ -7413,7 +7413,7 @@
     "projects": 3,
     "rank": 412,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "railway:signal:position",
@@ -7431,7 +7431,7 @@
     "projects": 6,
     "rank": 413,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "crossing_ref",
@@ -7449,7 +7449,7 @@
     "projects": 11,
     "rank": 414,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "ref:BRN",
@@ -7467,7 +7467,7 @@
     "projects": 0,
     "rank": 415,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "source:ref",
@@ -7485,7 +7485,7 @@
     "projects": 1,
     "rank": 416,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "manufacturer",
@@ -7503,7 +7503,7 @@
     "projects": 11,
     "rank": 417,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "name:ja-Hira",
@@ -7521,7 +7521,7 @@
     "projects": 2,
     "rank": 418,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "lojic:bgnum",
@@ -7539,7 +7539,7 @@
     "projects": 0,
     "rank": 419,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "source:population",
@@ -7557,7 +7557,7 @@
     "projects": 2,
     "rank": 420,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "check_date:opening_hours",
@@ -7575,7 +7575,7 @@
     "projects": 1,
     "rank": 421,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "name:zh-Hans",
@@ -7593,7 +7593,7 @@
     "projects": 2,
     "rank": 422,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "waste",
@@ -7611,7 +7611,7 @@
     "projects": 13,
     "rank": 423,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "diameter",
@@ -7629,7 +7629,7 @@
     "projects": 15,
     "rank": 424,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "maxweight",
@@ -7647,7 +7647,7 @@
     "projects": 12,
     "rank": 425,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "craft",
@@ -7665,7 +7665,7 @@
     "projects": 41,
     "rank": 426,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "source:hgv",
@@ -7683,7 +7683,7 @@
     "projects": 0,
     "rank": 427,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "ssr:stedsnr",
@@ -7701,7 +7701,7 @@
     "projects": 0,
     "rank": 428,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "placement",
@@ -7719,7 +7719,7 @@
     "projects": 8,
     "rank": 429,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "oneway:bicycle",
@@ -7737,7 +7737,7 @@
     "projects": 18,
     "rank": 430,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "memorial",
@@ -7755,7 +7755,7 @@
     "projects": 32,
     "rank": 431,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "bollard",
@@ -7773,7 +7773,7 @@
     "projects": 9,
     "rank": 432,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "isced:level",
@@ -7791,7 +7791,7 @@
     "projects": 6,
     "rank": 433,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "addr:village",
@@ -7809,7 +7809,7 @@
     "projects": 3,
     "rank": 434,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "vending",
@@ -7827,7 +7827,7 @@
     "projects": 46,
     "rank": 435,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "geobase:acquisitionTechnique",
@@ -7845,7 +7845,7 @@
     "projects": 0,
     "rank": 436,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "content",
@@ -7863,7 +7863,7 @@
     "projects": 8,
     "rank": 437,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "operator:en",
@@ -7881,7 +7881,7 @@
     "projects": 2,
     "rank": 438,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "network:short",
@@ -7899,7 +7899,7 @@
     "projects": 3,
     "rank": 439,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "building:condition",
@@ -7917,7 +7917,7 @@
     "projects": 2,
     "rank": 440,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "addr:ward",
@@ -7935,7 +7935,7 @@
     "projects": 0,
     "rank": 441,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "tiger:name_type_1",
@@ -7953,7 +7953,7 @@
     "projects": 1,
     "rank": 442,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "construction_date",
@@ -7971,7 +7971,7 @@
     "projects": 5,
     "rank": 443,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "payment:credit_cards",
@@ -7989,7 +7989,7 @@
     "projects": 44,
     "rank": 444,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "playground",
@@ -8007,7 +8007,7 @@
     "projects": 19,
     "rank": 445,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "HFCS",
@@ -8025,7 +8025,7 @@
     "projects": 1,
     "rank": 446,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "name:br",
@@ -8043,7 +8043,7 @@
     "projects": 1,
     "rank": 447,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "addr:block_number",
@@ -8061,7 +8061,7 @@
     "projects": 7,
     "rank": 448,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "industrial",
@@ -8079,7 +8079,7 @@
     "projects": 17,
     "rank": 449,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "ref:FR:SIRET",
@@ -8097,7 +8097,7 @@
     "projects": 4,
     "rank": 450,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "armrest",
@@ -8115,7 +8115,7 @@
     "projects": 13,
     "rank": 451,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "supervised",
@@ -8133,7 +8133,7 @@
     "projects": 43,
     "rank": 452,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "source:height",
@@ -8151,7 +8151,7 @@
     "projects": 0,
     "rank": 453,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "trees",
@@ -8169,7 +8169,7 @@
     "projects": 8,
     "rank": 454,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "piste:type",
@@ -8187,7 +8187,7 @@
     "projects": 15,
     "rank": 455,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "mofa",
@@ -8205,7 +8205,7 @@
     "projects": 9,
     "rank": 456,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "network:type",
@@ -8223,7 +8223,7 @@
     "projects": 7,
     "rank": 457,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "railway:etcs",
@@ -8241,7 +8241,7 @@
     "projects": 3,
     "rank": 458,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "railway:preferred_direction",
@@ -8259,7 +8259,7 @@
     "projects": 3,
     "rank": 459,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "moped",
@@ -8277,7 +8277,7 @@
     "projects": 8,
     "rank": 460,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "ref:vcgi:esiteid",
@@ -8295,7 +8295,7 @@
     "projects": 0,
     "rank": 461,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "ownership",
@@ -8313,7 +8313,7 @@
     "projects": 3,
     "rank": 462,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "heritage",
@@ -8331,7 +8331,7 @@
     "projects": 10,
     "rank": 463,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "ref:IFOPT",
@@ -8349,7 +8349,7 @@
     "projects": 4,
     "rank": 464,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "living_street",
@@ -8367,7 +8367,7 @@
     "projects": 3,
     "rank": 465,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "genus:de",
@@ -8385,7 +8385,7 @@
     "projects": 1,
     "rank": 466,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "embankment",
@@ -8403,7 +8403,7 @@
     "projects": 17,
     "rank": 467,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "genus:en",
@@ -8421,7 +8421,7 @@
     "projects": 2,
     "rank": 468,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "board_type",
@@ -8439,7 +8439,7 @@
     "projects": 12,
     "rank": 469,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "artwork_type",
@@ -8457,7 +8457,7 @@
     "projects": 33,
     "rank": 470,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "light:shape",
@@ -8475,7 +8475,7 @@
     "projects": 1,
     "rank": 471,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "CLC:code",
@@ -8493,7 +8493,7 @@
     "projects": 0,
     "rank": 472,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "dibavod:id",
@@ -8511,7 +8511,7 @@
     "projects": 0,
     "rank": 473,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "light:method",
@@ -8529,7 +8529,7 @@
     "projects": 4,
     "rank": 474,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "taxon",
@@ -8547,7 +8547,7 @@
     "projects": 13,
     "rank": 475,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "CLC:year",
@@ -8565,7 +8565,7 @@
     "projects": 0,
     "rank": 476,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "name:sr-Latn",
@@ -8583,7 +8583,7 @@
     "projects": 2,
     "rank": 477,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "check_date:surface",
@@ -8601,7 +8601,7 @@
     "projects": 0,
     "rank": 478,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "capacity:disabled",
@@ -8619,7 +8619,7 @@
     "projects": 15,
     "rank": 479,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "min_height",
@@ -8637,7 +8637,7 @@
     "projects": 15,
     "rank": 480,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "surveillance:zone",
@@ -8655,7 +8655,7 @@
     "projects": 7,
     "rank": 481,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "contact:instagram",
@@ -8673,7 +8673,7 @@
     "projects": 13,
     "rank": 482,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "train",
@@ -8691,7 +8691,7 @@
     "projects": 16,
     "rank": 483,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "payment:debit_cards",
@@ -8709,7 +8709,7 @@
     "projects": 45,
     "rank": 484,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "swimming_pool",
@@ -8727,7 +8727,7 @@
     "projects": 6,
     "rank": 485,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "railway:pzb",
@@ -8745,7 +8745,7 @@
     "projects": 3,
     "rank": 486,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "voltage:primary",
@@ -8763,7 +8763,7 @@
     "projects": 6,
     "rank": 487,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "light:colour",
@@ -8781,7 +8781,7 @@
     "projects": 4,
     "rank": 488,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "fid",
@@ -8799,7 +8799,7 @@
     "projects": 1,
     "rank": 489,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "camera:mount",
@@ -8817,7 +8817,7 @@
     "projects": 6,
     "rank": 490,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "local_ref",
@@ -8835,7 +8835,7 @@
     "projects": 10,
     "rank": 491,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "naptan:AtcoCode",
@@ -8853,7 +8853,7 @@
     "projects": 3,
     "rank": 492,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "inscription",
@@ -8871,7 +8871,7 @@
     "projects": 22,
     "rank": 493,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "railway:position",
@@ -8889,7 +8889,7 @@
     "projects": 6,
     "rank": 494,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "ref:UrbIS",
@@ -8907,7 +8907,7 @@
     "projects": 0,
     "rank": 495,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "species:en",
@@ -8925,7 +8925,7 @@
     "projects": 3,
     "rank": 496,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "addr:block",
@@ -8943,7 +8943,7 @@
     "projects": 2,
     "rank": 497,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "prow_ref",
@@ -8961,7 +8961,7 @@
     "projects": 3,
     "rank": 498,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "addr:subward",
@@ -8979,7 +8979,7 @@
     "projects": 0,
     "rank": 499,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   },
   {
     "key": "light:lit",
@@ -8997,6 +8997,6 @@
     "projects": 3,
     "rank": 500,
     "data_until": "2026-11-23T00:59:34Z",
-    "collected_at": "2026-11-23T11:21:47+00:00"
+    "collected_at": "2026-11-23T11:48:40+00:00"
   }
 ]
