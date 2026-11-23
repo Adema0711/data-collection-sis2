@@ -1,4 +1,3 @@
-"""Kafka Producer: отправляет собранные записи Taginfo в топик в формате JSON."""
 import json
 import logging
 import sys
@@ -15,10 +14,9 @@ log = logging.getLogger("producer")
 
 
 def ensure_topic() -> None:
-    """Проверяет доступность брокера и создаёт топик, если его нет."""
     admin = AdminClient({"bootstrap.servers": KAFKA_BOOTSTRAP})
     try:
-        metadata = admin.list_topics(timeout=10)  # ошибка, если брокер недоступен
+        metadata = admin.list_topics(timeout=10)
     except KafkaException as err:
         raise ConnectionError(f"Брокер Kafka недоступен ({KAFKA_BOOTSTRAP}): {err}")
     if KAFKA_TOPIC in metadata.topics:
@@ -37,7 +35,6 @@ def ensure_topic() -> None:
 
 
 def run_producer() -> dict:
-    """Отправляет все записи и возвращает статистику отправки."""
     records = load_raw()
     ensure_topic()
 
@@ -54,14 +51,14 @@ def run_producer() -> dict:
 
     for record in records:
         try:
-            value = json.dumps(record, ensure_ascii=False).encode("utf-8")  # JSON-сериализация
+            value = json.dumps(record, ensure_ascii=False).encode("utf-8")  
             key = str(record.get("key", "")).encode("utf-8")
             producer.produce(KAFKA_TOPIC, key=key, value=value, callback=on_delivery)
         except (TypeError, ValueError) as err:
             stats["failed"] += 1
             log.error("Ошибка сериализации записи %s: %s", record.get("key"), err)
         except BufferError:
-            producer.poll(1)  # очередь переполнена: ждём и отправляем дальше
+            producer.poll(1)  
             producer.produce(KAFKA_TOPIC, key=key, value=value, callback=on_delivery)
         producer.poll(0)
 
@@ -69,11 +66,11 @@ def run_producer() -> dict:
     if remaining:
         log.error("Не доставлено сообщений после flush: %s", remaining)
 
-    print(f"Источник: {RAW_JSON}")
-    print(f"Топик: {KAFKA_TOPIC}")
-    print(f"Всего записей: {stats['total']}")
-    print(f"Успешно опубликовано: {stats['delivered']}")
-    print(f"Ошибок отправки: {stats['failed']}")
+    print(f"Source: {RAW_JSON}")
+    print(f"Topic: {KAFKA_TOPIC}")
+    print(f"Overall records: {stats['total']}")
+    print(f"Successfully published: {stats['delivered']}")
+    print(f"Submission errors: {stats['failed']}")
     return stats
 
 
