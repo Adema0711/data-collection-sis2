@@ -1,0 +1,18 @@
+{
+  "rows_in_file": 250,
+  "rows_before": 0,
+  "inserted": 250,
+  "ignored": 0,
+  "rows_after": 250,
+  "checks": {
+    "duplicate_keys": 0,
+    "null_values": 0,
+    "wrong_years": 0,
+    "wrong_population": 0,
+    "wrong_indicator": 0,
+    "countries_without_25_years": 0
+  },
+  "second_load_inserted": 0,
+  "rows_after_second_load": 250,
+  "data_changed": false
+}

@@ -1,0 +1,251 @@
+country_code,country_name,region,income_level,indicator_code,data_last_updated,collected_at,year,population
+BRA,Brazil,Latin America & Caribbean,Upper middle income,SP.POP.TOTL,2026-11-11,2026-11-24T14:41:01+00:00,2000,174018282
+BRA,Brazil,Latin America & Caribbean,Upper middle income,SP.POP.TOTL,2026-11-11,2026-11-24T14:41:01+00:00,2001,176301203
+BRA,Brazil,Latin America & Caribbean,Upper middle income,SP.POP.TOTL,2026-11-11,2026-11-24T14:41:01+00:00,2002,178503484
+BRA,Brazil,Latin America & Caribbean,Upper middle income,SP.POP.TOTL,2026-11-11,2026-11-24T14:41:01+00:00,2003,180622688
+BRA,Brazil,Latin America & Caribbean,Upper middle income,SP.POP.TOTL,2026-11-11,2026-11-24T14:41:01+00:00,2004,182675143
+BRA,Brazil,Latin America & Caribbean,Upper middle income,SP.POP.TOTL,2026-11-11,2026-11-24T14:41:01+00:00,2005,184688101
+BRA,Brazil,Latin America & Caribbean,Upper middle income,SP.POP.TOTL,2026-11-11,2026-11-24T14:41:01+00:00,2006,186653106
+BRA,Brazil,Latin America & Caribbean,Upper middle income,SP.POP.TOTL,2026-11-11,2026-11-24T14:41:01+00:00,2007,188552320
+BRA,Brazil,Latin America & Caribbean,Upper middle income,SP.POP.TOTL,2026-11-11,2026-11-24T14:41:01+00:00,2008,190367302
+BRA,Brazil,Latin America & Caribbean,Upper middle income,SP.POP.TOTL,2026-11-11,2026-11-24T14:41:01+00:00,2009,192079951
+BRA,Brazil,Latin America & Caribbean,Upper middle income,SP.POP.TOTL,2026-11-11,2026-11-24T14:41:01+00:00,2010,193701929
+BRA,Brazil,Latin America & Caribbean,Upper middle income,SP.POP.TOTL,2026-11-11,2026-11-24T14:41:01+00:00,2011,195284734
+BRA,Brazil,Latin America & Caribbean,Upper middle income,SP.POP.TOTL,2026-11-11,2026-11-24T14:41:01+00:00,2012,196876111
+BRA,Brazil,Latin America & Caribbean,Upper middle income,SP.POP.TOTL,2026-11-11,2026-11-24T14:41:01+00:00,2013,198478299
+BRA,Brazil,Latin America & Caribbean,Upper middle income,SP.POP.TOTL,2026-11-11,2026-11-24T14:41:01+00:00,2014,200085127
+BRA,Brazil,Latin America & Caribbean,Upper middle income,SP.POP.TOTL,2026-11-11,2026-11-24T14:41:01+00:00,2015,201675532
+BRA,Brazil,Latin America & Caribbean,Upper middle income,SP.POP.TOTL,2026-11-11,2026-11-24T14:41:01+00:00,2016,203218114
+BRA,Brazil,Latin America & Caribbean,Upper middle income,SP.POP.TOTL,2026-11-11,2026-11-24T14:41:01+00:00,2017,204703445
+BRA,Brazil,Latin America & Caribbean,Upper middle income,SP.POP.TOTL,2026-11-11,2026-11-24T14:41:01+00:00,2018,206107261
+BRA,Brazil,Latin America & Caribbean,Upper middle income,SP.POP.TOTL,2026-11-11,2026-11-24T14:41:01+00:00,2019,207455459
+BRA,Brazil,Latin America & Caribbean,Upper middle income,SP.POP.TOTL,2026-11-11,2026-11-24T14:41:01+00:00,2020,208660842
+BRA,Brazil,Latin America & Caribbean,Upper middle income,SP.POP.TOTL,2026-11-11,2026-11-24T14:41:01+00:00,2021,209550294
+BRA,Brazil,Latin America & Caribbean,Upper middle income,SP.POP.TOTL,2026-11-11,2026-11-24T14:41:01+00:00,2022,210306415
+BRA,Brazil,Latin America & Caribbean,Upper middle income,SP.POP.TOTL,2026-11-11,2026-11-24T14:41:01+00:00,2023,211140729
+BRA,Brazil,Latin America & Caribbean,Upper middle income,SP.POP.TOTL,2026-11-11,2026-11-24T14:41:01+00:00,2024,211998573
+CHN,China,East Asia & Pacific,Upper middle income,SP.POP.TOTL,2026-11-11,2026-11-24T14:41:01+00:00,2000,1262645000
+CHN,China,East Asia & Pacific,Upper middle income,SP.POP.TOTL,2026-11-11,2026-11-24T14:41:01+00:00,2001,1271850000
+CHN,China,East Asia & Pacific,Upper middle income,SP.POP.TOTL,2026-11-11,2026-11-24T14:41:01+00:00,2002,1280400000
+CHN,China,East Asia & Pacific,Upper middle income,SP.POP.TOTL,2026-11-11,2026-11-24T14:41:01+00:00,2003,1288400000
+CHN,China,East Asia & Pacific,Upper middle income,SP.POP.TOTL,2026-11-11,2026-11-24T14:41:01+00:00,2004,1296075000
+CHN,China,East Asia & Pacific,Upper middle income,SP.POP.TOTL,2026-11-11,2026-11-24T14:41:01+00:00,2005,1303720000
+CHN,China,East Asia & Pacific,Upper middle income,SP.POP.TOTL,2026-11-11,2026-11-24T14:41:01+00:00,2006,1311020000
+CHN,China,East Asia & Pacific,Upper middle income,SP.POP.TOTL,2026-11-11,2026-11-24T14:41:01+00:00,2007,1317885000
+CHN,China,East Asia & Pacific,Upper middle income,SP.POP.TOTL,2026-11-11,2026-11-24T14:41:01+00:00,2008,1324655000
+CHN,China,East Asia & Pacific,Upper middle income,SP.POP.TOTL,2026-11-11,2026-11-24T14:41:01+00:00,2009,1331260000
+CHN,China,East Asia & Pacific,Upper middle income,SP.POP.TOTL,2026-11-11,2026-11-24T14:41:01+00:00,2010,1337705000
+CHN,China,East Asia & Pacific,Upper middle income,SP.POP.TOTL,2026-11-11,2026-11-24T14:41:01+00:00,2011,1345035000
+CHN,China,East Asia & Pacific,Upper middle income,SP.POP.TOTL,2026-11-11,2026-11-24T14:41:01+00:00,2012,1354190000
+CHN,China,East Asia & Pacific,Upper middle income,SP.POP.TOTL,2026-11-11,2026-11-24T14:41:01+00:00,2013,1363240000
+CHN,China,East Asia & Pacific,Upper middle income,SP.POP.TOTL,2026-11-11,2026-11-24T14:41:01+00:00,2014,1371860000
+CHN,China,East Asia & Pacific,Upper middle income,SP.POP.TOTL,2026-11-11,2026-11-24T14:41:01+00:00,2015,1379860000
+CHN,China,East Asia & Pacific,Upper middle income,SP.POP.TOTL,2026-11-11,2026-11-24T14:41:01+00:00,2016,1387790000
+CHN,China,East Asia & Pacific,Upper middle income,SP.POP.TOTL,2026-11-11,2026-11-24T14:41:01+00:00,2017,1396215000
+CHN,China,East Asia & Pacific,Upper middle income,SP.POP.TOTL,2026-11-11,2026-11-24T14:41:01+00:00,2018,1402760000
+CHN,China,East Asia & Pacific,Upper middle income,SP.POP.TOTL,2026-11-11,2026-11-24T14:41:01+00:00,2019,1407745000
+CHN,China,East Asia & Pacific,Upper middle income,SP.POP.TOTL,2026-11-11,2026-11-24T14:41:01+00:00,2020,1411100000
+CHN,China,East Asia & Pacific,Upper middle income,SP.POP.TOTL,2026-11-11,2026-11-24T14:41:01+00:00,2021,1412360000
+CHN,China,East Asia & Pacific,Upper middle income,SP.POP.TOTL,2026-11-11,2026-11-24T14:41:01+00:00,2022,1412175000
+CHN,China,East Asia & Pacific,Upper middle income,SP.POP.TOTL,2026-11-11,2026-11-24T14:41:01+00:00,2023,1410710000
+CHN,China,East Asia & Pacific,Upper middle income,SP.POP.TOTL,2026-11-11,2026-11-24T14:41:01+00:00,2024,1408975000
+DEU,Germany,Europe & Central Asia,High income,SP.POP.TOTL,2026-11-11,2026-11-24T14:41:01+00:00,2000,82211508
+DEU,Germany,Europe & Central Asia,High income,SP.POP.TOTL,2026-11-11,2026-11-24T14:41:01+00:00,2001,82349925
+DEU,Germany,Europe & Central Asia,High income,SP.POP.TOTL,2026-11-11,2026-11-24T14:41:01+00:00,2002,82488495
+DEU,Germany,Europe & Central Asia,High income,SP.POP.TOTL,2026-11-11,2026-11-24T14:41:01+00:00,2003,82534176
+DEU,Germany,Europe & Central Asia,High income,SP.POP.TOTL,2026-11-11,2026-11-24T14:41:01+00:00,2004,82516260
+DEU,Germany,Europe & Central Asia,High income,SP.POP.TOTL,2026-11-11,2026-11-24T14:41:01+00:00,2005,82469422
+DEU,Germany,Europe & Central Asia,High income,SP.POP.TOTL,2026-11-11,2026-11-24T14:41:01+00:00,2006,82376451
+DEU,Germany,Europe & Central Asia,High income,SP.POP.TOTL,2026-11-11,2026-11-24T14:41:01+00:00,2007,82266372
+DEU,Germany,Europe & Central Asia,High income,SP.POP.TOTL,2026-11-11,2026-11-24T14:41:01+00:00,2008,82110097
+DEU,Germany,Europe & Central Asia,High income,SP.POP.TOTL,2026-11-11,2026-11-24T14:41:01+00:00,2009,81902307
+DEU,Germany,Europe & Central Asia,High income,SP.POP.TOTL,2026-11-11,2026-11-24T14:41:01+00:00,2010,81776930
+DEU,Germany,Europe & Central Asia,High income,SP.POP.TOTL,2026-11-11,2026-11-24T14:41:01+00:00,2011,80274983
+DEU,Germany,Europe & Central Asia,High income,SP.POP.TOTL,2026-11-11,2026-11-24T14:41:01+00:00,2012,80425823
+DEU,Germany,Europe & Central Asia,High income,SP.POP.TOTL,2026-11-11,2026-11-24T14:41:01+00:00,2013,80645605
+DEU,Germany,Europe & Central Asia,High income,SP.POP.TOTL,2026-11-11,2026-11-24T14:41:01+00:00,2014,80982500
+DEU,Germany,Europe & Central Asia,High income,SP.POP.TOTL,2026-11-11,2026-11-24T14:41:01+00:00,2015,81686611
+DEU,Germany,Europe & Central Asia,High income,SP.POP.TOTL,2026-11-11,2026-11-24T14:41:01+00:00,2016,82348669
+DEU,Germany,Europe & Central Asia,High income,SP.POP.TOTL,2026-11-11,2026-11-24T14:41:01+00:00,2017,82657002
+DEU,Germany,Europe & Central Asia,High income,SP.POP.TOTL,2026-11-11,2026-11-24T14:41:01+00:00,2018,82905782
+DEU,Germany,Europe & Central Asia,High income,SP.POP.TOTL,2026-11-11,2026-11-24T14:41:01+00:00,2019,83092962
+DEU,Germany,Europe & Central Asia,High income,SP.POP.TOTL,2026-11-11,2026-11-24T14:41:01+00:00,2020,83160871
+DEU,Germany,Europe & Central Asia,High income,SP.POP.TOTL,2026-11-11,2026-11-24T14:41:01+00:00,2021,83196078
+DEU,Germany,Europe & Central Asia,High income,SP.POP.TOTL,2026-11-11,2026-11-24T14:41:01+00:00,2022,83177813
+DEU,Germany,Europe & Central Asia,High income,SP.POP.TOTL,2026-11-11,2026-11-24T14:41:01+00:00,2023,83287273
+DEU,Germany,Europe & Central Asia,High income,SP.POP.TOTL,2026-11-11,2026-11-24T14:41:01+00:00,2024,83516593
+EGY,"Egypt, Arab Rep.","Middle East, North Africa, Afghanistan & Pakistan",Lower middle income,SP.POP.TOTL,2026-11-11,2026-11-24T14:41:01+00:00,2000,73083284
+EGY,"Egypt, Arab Rep.","Middle East, North Africa, Afghanistan & Pakistan",Lower middle income,SP.POP.TOTL,2026-11-11,2026-11-24T14:41:01+00:00,2001,74652029
+EGY,"Egypt, Arab Rep.","Middle East, North Africa, Afghanistan & Pakistan",Lower middle income,SP.POP.TOTL,2026-11-11,2026-11-24T14:41:01+00:00,2002,76239137
+EGY,"Egypt, Arab Rep.","Middle East, North Africa, Afghanistan & Pakistan",Lower middle income,SP.POP.TOTL,2026-11-11,2026-11-24T14:41:01+00:00,2003,77853548
+EGY,"Egypt, Arab Rep.","Middle East, North Africa, Afghanistan & Pakistan",Lower middle income,SP.POP.TOTL,2026-11-11,2026-11-24T14:41:01+00:00,2004,79477443
+EGY,"Egypt, Arab Rep.","Middle East, North Africa, Afghanistan & Pakistan",Lower middle income,SP.POP.TOTL,2026-11-11,2026-11-24T14:41:01+00:00,2005,81101004
+EGY,"Egypt, Arab Rep.","Middle East, North Africa, Afghanistan & Pakistan",Lower middle income,SP.POP.TOTL,2026-11-11,2026-11-24T14:41:01+00:00,2006,82700403
+EGY,"Egypt, Arab Rep.","Middle East, North Africa, Afghanistan & Pakistan",Lower middle income,SP.POP.TOTL,2026-11-11,2026-11-24T14:41:01+00:00,2007,84276225
+EGY,"Egypt, Arab Rep.","Middle East, North Africa, Afghanistan & Pakistan",Lower middle income,SP.POP.TOTL,2026-11-11,2026-11-24T14:41:01+00:00,2008,85864789
+EGY,"Egypt, Arab Rep.","Middle East, North Africa, Afghanistan & Pakistan",Lower middle income,SP.POP.TOTL,2026-11-11,2026-11-24T14:41:01+00:00,2009,87501636
+EGY,"Egypt, Arab Rep.","Middle East, North Africa, Afghanistan & Pakistan",Lower middle income,SP.POP.TOTL,2026-11-11,2026-11-24T14:41:01+00:00,2010,89196072
+EGY,"Egypt, Arab Rep.","Middle East, North Africa, Afghanistan & Pakistan",Lower middle income,SP.POP.TOTL,2026-11-11,2026-11-24T14:41:01+00:00,2011,91093059
+EGY,"Egypt, Arab Rep.","Middle East, North Africa, Afghanistan & Pakistan",Lower middle income,SP.POP.TOTL,2026-11-11,2026-11-24T14:41:01+00:00,2012,93161001
+EGY,"Egypt, Arab Rep.","Middle East, North Africa, Afghanistan & Pakistan",Lower middle income,SP.POP.TOTL,2026-11-11,2026-11-24T14:41:01+00:00,2013,95333553
+EGY,"Egypt, Arab Rep.","Middle East, North Africa, Afghanistan & Pakistan",Lower middle income,SP.POP.TOTL,2026-11-11,2026-11-24T14:41:01+00:00,2014,97528654
+EGY,"Egypt, Arab Rep.","Middle East, North Africa, Afghanistan & Pakistan",Lower middle income,SP.POP.TOTL,2026-11-11,2026-11-24T14:41:01+00:00,2015,99597342
+EGY,"Egypt, Arab Rep.","Middle East, North Africa, Afghanistan & Pakistan",Lower middle income,SP.POP.TOTL,2026-11-11,2026-11-24T14:41:01+00:00,2016,101644589
+EGY,"Egypt, Arab Rep.","Middle East, North Africa, Afghanistan & Pakistan",Lower middle income,SP.POP.TOTL,2026-11-11,2026-11-24T14:41:01+00:00,2017,103696057
+EGY,"Egypt, Arab Rep.","Middle East, North Africa, Afghanistan & Pakistan",Lower middle income,SP.POP.TOTL,2026-11-11,2026-11-24T14:41:01+00:00,2018,105682094
+EGY,"Egypt, Arab Rep.","Middle East, North Africa, Afghanistan & Pakistan",Lower middle income,SP.POP.TOTL,2026-11-11,2026-11-24T14:41:01+00:00,2019,107553158
+EGY,"Egypt, Arab Rep.","Middle East, North Africa, Afghanistan & Pakistan",Lower middle income,SP.POP.TOTL,2026-11-11,2026-11-24T14:41:01+00:00,2020,109315124
+EGY,"Egypt, Arab Rep.","Middle East, North Africa, Afghanistan & Pakistan",Lower middle income,SP.POP.TOTL,2026-11-11,2026-11-24T14:41:01+00:00,2021,110957008
+EGY,"Egypt, Arab Rep.","Middle East, North Africa, Afghanistan & Pakistan",Lower middle income,SP.POP.TOTL,2026-11-11,2026-11-24T14:41:01+00:00,2022,112618250
+EGY,"Egypt, Arab Rep.","Middle East, North Africa, Afghanistan & Pakistan",Lower middle income,SP.POP.TOTL,2026-11-11,2026-11-24T14:41:01+00:00,2023,114535772
+EGY,"Egypt, Arab Rep.","Middle East, North Africa, Afghanistan & Pakistan",Lower middle income,SP.POP.TOTL,2026-11-11,2026-11-24T14:41:01+00:00,2024,116538258
+IND,India,South Asia,Lower middle income,SP.POP.TOTL,2026-11-11,2026-11-24T14:41:01+00:00,2000,1057922733
+IND,India,South Asia,Lower middle income,SP.POP.TOTL,2026-11-11,2026-11-24T14:41:01+00:00,2001,1077898575
+IND,India,South Asia,Lower middle income,SP.POP.TOTL,2026-11-11,2026-11-24T14:41:01+00:00,2002,1097600380
+IND,India,South Asia,Lower middle income,SP.POP.TOTL,2026-11-11,2026-11-24T14:41:01+00:00,2003,1116803006
+IND,India,South Asia,Lower middle income,SP.POP.TOTL,2026-11-11,2026-11-24T14:41:01+00:00,2004,1135991513
+IND,India,South Asia,Lower middle income,SP.POP.TOTL,2026-11-11,2026-11-24T14:41:01+00:00,2005,1154676322
+IND,India,South Asia,Lower middle income,SP.POP.TOTL,2026-11-11,2026-11-24T14:41:01+00:00,2006,1172878890
+IND,India,South Asia,Lower middle income,SP.POP.TOTL,2026-11-11,2026-11-24T14:41:01+00:00,2007,1190676021
+IND,India,South Asia,Lower middle income,SP.POP.TOTL,2026-11-11,2026-11-24T14:41:01+00:00,2008,1207930964
+IND,India,South Asia,Lower middle income,SP.POP.TOTL,2026-11-11,2026-11-24T14:41:01+00:00,2009,1225524753
+IND,India,South Asia,Lower middle income,SP.POP.TOTL,2026-11-11,2026-11-24T14:41:01+00:00,2010,1243481564
+IND,India,South Asia,Lower middle income,SP.POP.TOTL,2026-11-11,2026-11-24T14:41:01+00:00,2011,1261224954
+IND,India,South Asia,Lower middle income,SP.POP.TOTL,2026-11-11,2026-11-24T14:41:01+00:00,2012,1278674502
+IND,India,South Asia,Lower middle income,SP.POP.TOTL,2026-11-11,2026-11-24T14:41:01+00:00,2013,1295829511
+IND,India,South Asia,Lower middle income,SP.POP.TOTL,2026-11-11,2026-11-24T14:41:01+00:00,2014,1312277191
+IND,India,South Asia,Lower middle income,SP.POP.TOTL,2026-11-11,2026-11-24T14:41:01+00:00,2015,1328024498
+IND,India,South Asia,Lower middle income,SP.POP.TOTL,2026-11-11,2026-11-24T14:41:01+00:00,2016,1343944296
+IND,India,South Asia,Lower middle income,SP.POP.TOTL,2026-11-11,2026-11-24T14:41:01+00:00,2017,1359657400
+IND,India,South Asia,Lower middle income,SP.POP.TOTL,2026-11-11,2026-11-24T14:41:01+00:00,2018,1374659064
+IND,India,South Asia,Lower middle income,SP.POP.TOTL,2026-11-11,2026-11-24T14:41:01+00:00,2019,1389030312
+IND,India,South Asia,Lower middle income,SP.POP.TOTL,2026-11-11,2026-11-24T14:41:01+00:00,2020,1402617695
+IND,India,South Asia,Lower middle income,SP.POP.TOTL,2026-11-11,2026-11-24T14:41:01+00:00,2021,1414203896
+IND,India,South Asia,Lower middle income,SP.POP.TOTL,2026-11-11,2026-11-24T14:41:01+00:00,2022,1425423212
+IND,India,South Asia,Lower middle income,SP.POP.TOTL,2026-11-11,2026-11-24T14:41:01+00:00,2023,1438069596
+IND,India,South Asia,Lower middle income,SP.POP.TOTL,2026-11-11,2026-11-24T14:41:01+00:00,2024,1450935791
+JPN,Japan,East Asia & Pacific,High income,SP.POP.TOTL,2026-11-11,2026-11-24T14:41:01+00:00,2000,126843000
+JPN,Japan,East Asia & Pacific,High income,SP.POP.TOTL,2026-11-11,2026-11-24T14:41:01+00:00,2001,127149000
+JPN,Japan,East Asia & Pacific,High income,SP.POP.TOTL,2026-11-11,2026-11-24T14:41:01+00:00,2002,127445000
+JPN,Japan,East Asia & Pacific,High income,SP.POP.TOTL,2026-11-11,2026-11-24T14:41:01+00:00,2003,127718000
+JPN,Japan,East Asia & Pacific,High income,SP.POP.TOTL,2026-11-11,2026-11-24T14:41:01+00:00,2004,127761000
+JPN,Japan,East Asia & Pacific,High income,SP.POP.TOTL,2026-11-11,2026-11-24T14:41:01+00:00,2005,127773000
+JPN,Japan,East Asia & Pacific,High income,SP.POP.TOTL,2026-11-11,2026-11-24T14:41:01+00:00,2006,127854000
+JPN,Japan,East Asia & Pacific,High income,SP.POP.TOTL,2026-11-11,2026-11-24T14:41:01+00:00,2007,128001000
+JPN,Japan,East Asia & Pacific,High income,SP.POP.TOTL,2026-11-11,2026-11-24T14:41:01+00:00,2008,128063000
+JPN,Japan,East Asia & Pacific,High income,SP.POP.TOTL,2026-11-11,2026-11-24T14:41:01+00:00,2009,128047000
+JPN,Japan,East Asia & Pacific,High income,SP.POP.TOTL,2026-11-11,2026-11-24T14:41:01+00:00,2010,128070000
+JPN,Japan,East Asia & Pacific,High income,SP.POP.TOTL,2026-11-11,2026-11-24T14:41:01+00:00,2011,127833000
+JPN,Japan,East Asia & Pacific,High income,SP.POP.TOTL,2026-11-11,2026-11-24T14:41:01+00:00,2012,127629000
+JPN,Japan,East Asia & Pacific,High income,SP.POP.TOTL,2026-11-11,2026-11-24T14:41:01+00:00,2013,127445000
+JPN,Japan,East Asia & Pacific,High income,SP.POP.TOTL,2026-11-11,2026-11-24T14:41:01+00:00,2014,127276000
+JPN,Japan,East Asia & Pacific,High income,SP.POP.TOTL,2026-11-11,2026-11-24T14:41:01+00:00,2015,127141000
+JPN,Japan,East Asia & Pacific,High income,SP.POP.TOTL,2026-11-11,2026-11-24T14:41:01+00:00,2016,127076000
+JPN,Japan,East Asia & Pacific,High income,SP.POP.TOTL,2026-11-11,2026-11-24T14:41:01+00:00,2017,126972000
+JPN,Japan,East Asia & Pacific,High income,SP.POP.TOTL,2026-11-11,2026-11-24T14:41:01+00:00,2018,126811000
+JPN,Japan,East Asia & Pacific,High income,SP.POP.TOTL,2026-11-11,2026-11-24T14:41:01+00:00,2019,126633000
+JPN,Japan,East Asia & Pacific,High income,SP.POP.TOTL,2026-11-11,2026-11-24T14:41:01+00:00,2020,126261000
+JPN,Japan,East Asia & Pacific,High income,SP.POP.TOTL,2026-11-11,2026-11-24T14:41:01+00:00,2021,125681593
+JPN,Japan,East Asia & Pacific,High income,SP.POP.TOTL,2026-11-11,2026-11-24T14:41:01+00:00,2022,125124989
+JPN,Japan,East Asia & Pacific,High income,SP.POP.TOTL,2026-11-11,2026-11-24T14:41:01+00:00,2023,124516650
+JPN,Japan,East Asia & Pacific,High income,SP.POP.TOTL,2026-11-11,2026-11-24T14:41:01+00:00,2024,123975371
+KAZ,Kazakhstan,Europe & Central Asia,Upper middle income,SP.POP.TOTL,2026-11-11,2026-11-24T14:41:01+00:00,2000,15501103
+KAZ,Kazakhstan,Europe & Central Asia,Upper middle income,SP.POP.TOTL,2026-11-11,2026-11-24T14:41:01+00:00,2001,15575550
+KAZ,Kazakhstan,Europe & Central Asia,Upper middle income,SP.POP.TOTL,2026-11-11,2026-11-24T14:41:01+00:00,2002,15656677
+KAZ,Kazakhstan,Europe & Central Asia,Upper middle income,SP.POP.TOTL,2026-11-11,2026-11-24T14:41:01+00:00,2003,15747380
+KAZ,Kazakhstan,Europe & Central Asia,Upper middle income,SP.POP.TOTL,2026-11-11,2026-11-24T14:41:01+00:00,2004,15850159
+KAZ,Kazakhstan,Europe & Central Asia,Upper middle income,SP.POP.TOTL,2026-11-11,2026-11-24T14:41:01+00:00,2005,15968117
+KAZ,Kazakhstan,Europe & Central Asia,Upper middle income,SP.POP.TOTL,2026-11-11,2026-11-24T14:41:01+00:00,2006,16103716
+KAZ,Kazakhstan,Europe & Central Asia,Upper middle income,SP.POP.TOTL,2026-11-11,2026-11-24T14:41:01+00:00,2007,16257214
+KAZ,Kazakhstan,Europe & Central Asia,Upper middle income,SP.POP.TOTL,2026-11-11,2026-11-24T14:41:01+00:00,2008,16426525
+KAZ,Kazakhstan,Europe & Central Asia,Upper middle income,SP.POP.TOTL,2026-11-11,2026-11-24T14:41:01+00:00,2009,16619846
+KAZ,Kazakhstan,Europe & Central Asia,Upper middle income,SP.POP.TOTL,2026-11-11,2026-11-24T14:41:01+00:00,2010,16836810
+KAZ,Kazakhstan,Europe & Central Asia,Upper middle income,SP.POP.TOTL,2026-11-11,2026-11-24T14:41:01+00:00,2011,17066002
+KAZ,Kazakhstan,Europe & Central Asia,Upper middle income,SP.POP.TOTL,2026-11-11,2026-11-24T14:41:01+00:00,2012,17306106
+KAZ,Kazakhstan,Europe & Central Asia,Upper middle income,SP.POP.TOTL,2026-11-11,2026-11-24T14:41:01+00:00,2013,17556502
+KAZ,Kazakhstan,Europe & Central Asia,Upper middle income,SP.POP.TOTL,2026-11-11,2026-11-24T14:41:01+00:00,2014,17816285
+KAZ,Kazakhstan,Europe & Central Asia,Upper middle income,SP.POP.TOTL,2026-11-11,2026-11-24T14:41:01+00:00,2015,18084169
+KAZ,Kazakhstan,Europe & Central Asia,Upper middle income,SP.POP.TOTL,2026-11-11,2026-11-24T14:41:01+00:00,2016,18363600
+KAZ,Kazakhstan,Europe & Central Asia,Upper middle income,SP.POP.TOTL,2026-11-11,2026-11-24T14:41:01+00:00,2017,18651931
+KAZ,Kazakhstan,Europe & Central Asia,Upper middle income,SP.POP.TOTL,2026-11-11,2026-11-24T14:41:01+00:00,2018,18932727
+KAZ,Kazakhstan,Europe & Central Asia,Upper middle income,SP.POP.TOTL,2026-11-11,2026-11-24T14:41:01+00:00,2019,19209555
+KAZ,Kazakhstan,Europe & Central Asia,Upper middle income,SP.POP.TOTL,2026-11-11,2026-11-24T14:41:01+00:00,2020,19482117
+KAZ,Kazakhstan,Europe & Central Asia,Upper middle income,SP.POP.TOTL,2026-11-11,2026-11-24T14:41:01+00:00,2021,19743603
+KAZ,Kazakhstan,Europe & Central Asia,Upper middle income,SP.POP.TOTL,2026-11-11,2026-11-24T14:41:01+00:00,2022,20034609
+KAZ,Kazakhstan,Europe & Central Asia,Upper middle income,SP.POP.TOTL,2026-11-11,2026-11-24T14:41:01+00:00,2023,20330104
+KAZ,Kazakhstan,Europe & Central Asia,Upper middle income,SP.POP.TOTL,2026-11-11,2026-11-24T14:41:01+00:00,2024,20592571
+NGA,Nigeria,Sub-Saharan Africa,Lower middle income,SP.POP.TOTL,2026-11-11,2026-11-24T14:41:01+00:00,2000,126382494
+NGA,Nigeria,Sub-Saharan Africa,Lower middle income,SP.POP.TOTL,2026-11-11,2026-11-24T14:41:01+00:00,2001,129862595
+NGA,Nigeria,Sub-Saharan Africa,Lower middle income,SP.POP.TOTL,2026-11-11,2026-11-24T14:41:01+00:00,2002,133471989
+NGA,Nigeria,Sub-Saharan Africa,Lower middle income,SP.POP.TOTL,2026-11-11,2026-11-24T14:41:01+00:00,2003,137202644
+NGA,Nigeria,Sub-Saharan Africa,Lower middle income,SP.POP.TOTL,2026-11-11,2026-11-24T14:41:01+00:00,2004,141057045
+NGA,Nigeria,Sub-Saharan Africa,Lower middle income,SP.POP.TOTL,2026-11-11,2026-11-24T14:41:01+00:00,2005,145017253
+NGA,Nigeria,Sub-Saharan Africa,Lower middle income,SP.POP.TOTL,2026-11-11,2026-11-24T14:41:01+00:00,2006,149077334
+NGA,Nigeria,Sub-Saharan Africa,Lower middle income,SP.POP.TOTL,2026-11-11,2026-11-24T14:41:01+00:00,2007,153267261
+NGA,Nigeria,Sub-Saharan Africa,Lower middle income,SP.POP.TOTL,2026-11-11,2026-11-24T14:41:01+00:00,2008,157595014
+NGA,Nigeria,Sub-Saharan Africa,Lower middle income,SP.POP.TOTL,2026-11-11,2026-11-24T14:41:01+00:00,2009,162049464
+NGA,Nigeria,Sub-Saharan Africa,Lower middle income,SP.POP.TOTL,2026-11-11,2026-11-24T14:41:01+00:00,2010,166642886
+NGA,Nigeria,Sub-Saharan Africa,Lower middle income,SP.POP.TOTL,2026-11-11,2026-11-24T14:41:01+00:00,2011,171379598
+NGA,Nigeria,Sub-Saharan Africa,Lower middle income,SP.POP.TOTL,2026-11-11,2026-11-24T14:41:01+00:00,2012,176200625
+NGA,Nigeria,Sub-Saharan Africa,Lower middle income,SP.POP.TOTL,2026-11-11,2026-11-24T14:41:01+00:00,2013,181049443
+NGA,Nigeria,Sub-Saharan Africa,Lower middle income,SP.POP.TOTL,2026-11-11,2026-11-24T14:41:01+00:00,2014,185896915
+NGA,Nigeria,Sub-Saharan Africa,Lower middle income,SP.POP.TOTL,2026-11-11,2026-11-24T14:41:01+00:00,2015,190671878
+NGA,Nigeria,Sub-Saharan Africa,Lower middle income,SP.POP.TOTL,2026-11-11,2026-11-24T14:41:01+00:00,2016,195443700
+NGA,Nigeria,Sub-Saharan Africa,Lower middle income,SP.POP.TOTL,2026-11-11,2026-11-24T14:41:01+00:00,2017,200254579
+NGA,Nigeria,Sub-Saharan Africa,Lower middle income,SP.POP.TOTL,2026-11-11,2026-11-24T14:41:01+00:00,2018,204938755
+NGA,Nigeria,Sub-Saharan Africa,Lower middle income,SP.POP.TOTL,2026-11-11,2026-11-24T14:41:01+00:00,2019,209485641
+NGA,Nigeria,Sub-Saharan Africa,Lower middle income,SP.POP.TOTL,2026-11-11,2026-11-24T14:41:01+00:00,2020,213996181
+NGA,Nigeria,Sub-Saharan Africa,Lower middle income,SP.POP.TOTL,2026-11-11,2026-11-24T14:41:01+00:00,2021,218529286
+NGA,Nigeria,Sub-Saharan Africa,Lower middle income,SP.POP.TOTL,2026-11-11,2026-11-24T14:41:01+00:00,2022,223150896
+NGA,Nigeria,Sub-Saharan Africa,Lower middle income,SP.POP.TOTL,2026-11-11,2026-11-24T14:41:01+00:00,2023,227882945
+NGA,Nigeria,Sub-Saharan Africa,Lower middle income,SP.POP.TOTL,2026-11-11,2026-11-24T14:41:01+00:00,2024,232679478
+RUS,Russian Federation,Europe & Central Asia,High income,SP.POP.TOTL,2026-11-11,2026-11-24T14:41:01+00:00,2000,146596869
+RUS,Russian Federation,Europe & Central Asia,High income,SP.POP.TOTL,2026-11-11,2026-11-24T14:41:01+00:00,2001,145976482
+RUS,Russian Federation,Europe & Central Asia,High income,SP.POP.TOTL,2026-11-11,2026-11-24T14:41:01+00:00,2002,145306497
+RUS,Russian Federation,Europe & Central Asia,High income,SP.POP.TOTL,2026-11-11,2026-11-24T14:41:01+00:00,2003,144648618
+RUS,Russian Federation,Europe & Central Asia,High income,SP.POP.TOTL,2026-11-11,2026-11-24T14:41:01+00:00,2004,144067316
+RUS,Russian Federation,Europe & Central Asia,High income,SP.POP.TOTL,2026-11-11,2026-11-24T14:41:01+00:00,2005,143518814
+RUS,Russian Federation,Europe & Central Asia,High income,SP.POP.TOTL,2026-11-11,2026-11-24T14:41:01+00:00,2006,143049637
+RUS,Russian Federation,Europe & Central Asia,High income,SP.POP.TOTL,2026-11-11,2026-11-24T14:41:01+00:00,2007,142805114
+RUS,Russian Federation,Europe & Central Asia,High income,SP.POP.TOTL,2026-11-11,2026-11-24T14:41:01+00:00,2008,142742366
+RUS,Russian Federation,Europe & Central Asia,High income,SP.POP.TOTL,2026-11-11,2026-11-24T14:41:01+00:00,2009,142785348
+RUS,Russian Federation,Europe & Central Asia,High income,SP.POP.TOTL,2026-11-11,2026-11-24T14:41:01+00:00,2010,142849468
+RUS,Russian Federation,Europe & Central Asia,High income,SP.POP.TOTL,2026-11-11,2026-11-24T14:41:01+00:00,2011,143018195
+RUS,Russian Federation,Europe & Central Asia,High income,SP.POP.TOTL,2026-11-11,2026-11-24T14:41:01+00:00,2012,143378447
+RUS,Russian Federation,Europe & Central Asia,High income,SP.POP.TOTL,2026-11-11,2026-11-24T14:41:01+00:00,2013,143805638
+RUS,Russian Federation,Europe & Central Asia,High income,SP.POP.TOTL,2026-11-11,2026-11-24T14:41:01+00:00,2014,144237223
+RUS,Russian Federation,Europe & Central Asia,High income,SP.POP.TOTL,2026-11-11,2026-11-24T14:41:01+00:00,2015,144640716
+RUS,Russian Federation,Europe & Central Asia,High income,SP.POP.TOTL,2026-11-11,2026-11-24T14:41:01+00:00,2016,145015460
+RUS,Russian Federation,Europe & Central Asia,High income,SP.POP.TOTL,2026-11-11,2026-11-24T14:41:01+00:00,2017,145293260
+RUS,Russian Federation,Europe & Central Asia,High income,SP.POP.TOTL,2026-11-11,2026-11-24T14:41:01+00:00,2018,145398106
+RUS,Russian Federation,Europe & Central Asia,High income,SP.POP.TOTL,2026-11-11,2026-11-24T14:41:01+00:00,2019,145453291
+RUS,Russian Federation,Europe & Central Asia,High income,SP.POP.TOTL,2026-11-11,2026-11-24T14:41:01+00:00,2020,145245148
+RUS,Russian Federation,Europe & Central Asia,High income,SP.POP.TOTL,2026-11-11,2026-11-24T14:41:01+00:00,2021,144746762
+RUS,Russian Federation,Europe & Central Asia,High income,SP.POP.TOTL,2026-11-11,2026-11-24T14:41:01+00:00,2022,144236933
+RUS,Russian Federation,Europe & Central Asia,High income,SP.POP.TOTL,2026-11-11,2026-11-24T14:41:01+00:00,2023,143826130
+RUS,Russian Federation,Europe & Central Asia,High income,SP.POP.TOTL,2026-11-11,2026-11-24T14:41:01+00:00,2024,143669648
+USA,United States,North America,High income,SP.POP.TOTL,2026-11-11,2026-11-24T14:41:01+00:00,2000,282162411
+USA,United States,North America,High income,SP.POP.TOTL,2026-11-11,2026-11-24T14:41:01+00:00,2001,284968955
+USA,United States,North America,High income,SP.POP.TOTL,2026-11-11,2026-11-24T14:41:01+00:00,2002,287625193
+USA,United States,North America,High income,SP.POP.TOTL,2026-11-11,2026-11-24T14:41:01+00:00,2003,290107933
+USA,United States,North America,High income,SP.POP.TOTL,2026-11-11,2026-11-24T14:41:01+00:00,2004,292805298
+USA,United States,North America,High income,SP.POP.TOTL,2026-11-11,2026-11-24T14:41:01+00:00,2005,295516599
+USA,United States,North America,High income,SP.POP.TOTL,2026-11-11,2026-11-24T14:41:01+00:00,2006,298379912
+USA,United States,North America,High income,SP.POP.TOTL,2026-11-11,2026-11-24T14:41:01+00:00,2007,301231207
+USA,United States,North America,High income,SP.POP.TOTL,2026-11-11,2026-11-24T14:41:01+00:00,2008,304093966
+USA,United States,North America,High income,SP.POP.TOTL,2026-11-11,2026-11-24T14:41:01+00:00,2009,306771529
+USA,United States,North America,High income,SP.POP.TOTL,2026-11-11,2026-11-24T14:41:01+00:00,2010,309378227
+USA,United States,North America,High income,SP.POP.TOTL,2026-11-11,2026-11-24T14:41:01+00:00,2011,311839461
+USA,United States,North America,High income,SP.POP.TOTL,2026-11-11,2026-11-24T14:41:01+00:00,2012,314339099
+USA,United States,North America,High income,SP.POP.TOTL,2026-11-11,2026-11-24T14:41:01+00:00,2013,316726282
+USA,United States,North America,High income,SP.POP.TOTL,2026-11-11,2026-11-24T14:41:01+00:00,2014,319257560
+USA,United States,North America,High income,SP.POP.TOTL,2026-11-11,2026-11-24T14:41:01+00:00,2015,321815121
+USA,United States,North America,High income,SP.POP.TOTL,2026-11-11,2026-11-24T14:41:01+00:00,2016,324353340
+USA,United States,North America,High income,SP.POP.TOTL,2026-11-11,2026-11-24T14:41:01+00:00,2017,326608609
+USA,United States,North America,High income,SP.POP.TOTL,2026-11-11,2026-11-24T14:41:01+00:00,2018,328529577
+USA,United States,North America,High income,SP.POP.TOTL,2026-11-11,2026-11-24T14:41:01+00:00,2019,330226227
+USA,United States,North America,High income,SP.POP.TOTL,2026-11-11,2026-11-24T14:41:01+00:00,2020,331578104
+USA,United States,North America,High income,SP.POP.TOTL,2026-11-11,2026-11-24T14:41:01+00:00,2021,332100166
+USA,United States,North America,High income,SP.POP.TOTL,2026-11-11,2026-11-24T14:41:01+00:00,2022,333996304
+USA,United States,North America,High income,SP.POP.TOTL,2026-11-11,2026-11-24T14:41:01+00:00,2023,336755052
+USA,United States,North America,High income,SP.POP.TOTL,2026-11-11,2026-11-24T14:41:01+00:00,2024,340003797
