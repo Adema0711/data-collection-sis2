@@ -1,7 +1,7 @@
 services:
   kafka:
     image: apache/kafka:3.7.0
-    container_name: taginfo-kafka
+    container_name: world_bank
     ports:
       - "9092:9092"
     environment:

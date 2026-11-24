@@ -1,3 +1,4 @@
+"""Kafka Producer: sends the collected records to a topic as JSON."""
 import json
 import logging
 import sys
@@ -14,13 +15,14 @@ log = logging.getLogger("producer")
 
 
 def ensure_topic() -> None:
+    """Check that the broker is reachable and create the topic if it is missing."""
     admin = AdminClient({"bootstrap.servers": KAFKA_BOOTSTRAP})
     try:
         metadata = admin.list_topics(timeout=10)
     except KafkaException as err:
-        raise ConnectionError(f"Брокер Kafka недоступен ({KAFKA_BOOTSTRAP}): {err}")
+        raise ConnectionError(f"Kafka broker unavailable ({KAFKA_BOOTSTRAP}): {err}")
     if KAFKA_TOPIC in metadata.topics:
-        log.info("Топик '%s' уже существует.", KAFKA_TOPIC)
+        log.info("Topic '%s' already exists.", KAFKA_TOPIC)
         return
     futures = admin.create_topics([NewTopic(KAFKA_TOPIC,
                                             num_partitions=KAFKA_PARTITIONS,
@@ -28,13 +30,14 @@ def ensure_topic() -> None:
     for topic, future in futures.items():
         try:
             future.result()
-            log.info("Топик '%s' создан.", topic)
+            log.info("Topic '%s' created.", topic)
         except Exception as err:
-            log.error("Не удалось создать топик '%s': %s", topic, err)
+            log.error("Could not create topic '%s': %s", topic, err)
             raise
 
 
 def run_producer() -> dict:
+    """Send every record and return delivery statistics."""
     records = load_raw()
     ensure_topic()
 
@@ -43,32 +46,33 @@ def run_producer() -> dict:
     def on_delivery(err, msg):
         if err is not None:
             stats["failed"] += 1
-            log.error("Ошибка доставки: %s", err)
+            log.error("Delivery failed: %s", err)
         else:
             stats["delivered"] += 1
 
     producer = Producer({"bootstrap.servers": KAFKA_BOOTSTRAP, "acks": "all"})
 
     for record in records:
+        message_id = f"{record.get('country_code')}_{record.get('year')}"
         try:
-            value = json.dumps(record, ensure_ascii=False).encode("utf-8")  
-            key = str(record.get("key", "")).encode("utf-8")
+            value = json.dumps(record, ensure_ascii=False).encode("utf-8")  # JSON serialization
+            key = message_id.encode("utf-8")
             producer.produce(KAFKA_TOPIC, key=key, value=value, callback=on_delivery)
         except (TypeError, ValueError) as err:
             stats["failed"] += 1
-            log.error("Ошибка сериализации записи %s: %s", record.get("key"), err)
+            log.error("Serialization error for %s: %s", message_id, err)
         except BufferError:
-            producer.poll(1)  
+            producer.poll(1)  # local queue is full: wait, then retry
             producer.produce(KAFKA_TOPIC, key=key, value=value, callback=on_delivery)
         producer.poll(0)
 
     remaining = producer.flush(30)
     if remaining:
-        log.error("Не доставлено сообщений после flush: %s", remaining)
+        log.error("Messages not delivered after flush: %s", remaining)
 
     print(f"Source: {RAW_JSON}")
     print(f"Topic: {KAFKA_TOPIC}")
-    print(f"Overall records: {stats['total']}")
+    print(f"Total records: {stats['total']}")
     print(f"Successfully published: {stats['delivered']}")
     print(f"Submission errors: {stats['failed']}")
     return stats
