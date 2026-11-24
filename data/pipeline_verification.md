@@ -2,12 +2,12 @@
 
 | Stage | In | Out | Difference | Comment |
 |---|---|---|---|---|
-| API -> Kafka producer | 250 | - | - | stage was not run |
-| producer -> topic | - | - | - | stage was not run |
-| topic -> consumer | - | - | - | stage was not run |
-| consumer -> validation | - | - | - | stage was not run |
-| validation | - | - | - | stage was not run |
-| valid -> cleaning | - | 250 | - | stage was not run |
+| API -> Kafka producer | 250 | 250 | 0 | OK |
+| producer -> topic | 250 | 250 | 0 | OK |
+| topic -> consumer | 250 | 250 | 0 | OK |
+| consumer -> validation | 250 | 250 | 0 | OK |
+| validation | 250 | 250 | 0 | OK |
+| valid -> cleaning | 250 | 250 | 0 | OK |
 | cleaning | 250 | 250 | 0 | OK |
 | cleaning -> database | 250 | 250 | 0 | OK |
 | second load | 250 | 250 | 0 | OK |

@@ -1,10 +1,11 @@
 import json
 import sys
+import time
 from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).parent / "src"))
 
-from config import DATA_DIR, RAW_JSON
+from config import DATA_DIR, KAFKA_BOOTSTRAP, KAFKA_TOPIC, RAW_JSON
 
 STAGES = ["collect", "produce", "consume", "validate", "clean", "analyze", "load"]
 
@@ -17,6 +18,23 @@ def read_report(name):
         return json.load(f)
 
 
+def reset_topic(timeout=30):
+    """Delete the topic (if it exists) so that every pipeline run starts with an empty topic.
+    Without this, repeated producer runs pile up old messages and the counters differ."""
+    from confluent_kafka.admin import AdminClient
+    admin = AdminClient({"bootstrap.servers": KAFKA_BOOTSTRAP})
+    if KAFKA_TOPIC not in admin.list_topics(timeout=10).topics:
+        return
+    for future in admin.delete_topics([KAFKA_TOPIC]).values():
+        future.result()
+    deadline = time.monotonic() + timeout
+    while KAFKA_TOPIC in admin.list_topics(timeout=10).topics:
+        if time.monotonic() > deadline:
+            raise TimeoutError(f"Topic '{KAFKA_TOPIC}' was not deleted in {timeout} s")
+        time.sleep(1)
+    print(f"Old topic '{KAFKA_TOPIC}' deleted, a new one will be created by the producer")
+
+
 def run_stage(stage):
     if stage == "collect":
         import api_client
@@ -24,6 +42,7 @@ def run_stage(stage):
         api_client.save_raw(records)
     elif stage == "produce":
         import producer
+        reset_topic()
         stats = producer.run_producer()
         with open(DATA_DIR / "producer_report.json", "w", encoding="utf-8") as f:
             json.dump(stats, f, indent=2)

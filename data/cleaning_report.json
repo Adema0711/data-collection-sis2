@@ -1,0 +1,8 @@
+{
+  "source": "valid_data.csv",
+  "input_rows": 250,
+  "missing_rows": 0,
+  "invalid_numeric_rows": 0,
+  "duplicate_rows": 0,
+  "output_rows": 250
+}

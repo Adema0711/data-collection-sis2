@@ -1,0 +1,7 @@
+test_id,detected_as_invalid,validation_errors
+CONTROL_valid,False,
+TEST_1_bad_values,True,country_code: country_code is not one of the 10 selected countries (value: XXX) | population: population must be between 1 and 2000000000 (value: -5000)
+TEST_2_bad_year_missing_name,True,country_name: required value is missing | year: year must be a 4-digit value between 2000 and 2024 (value: 20x4)
+TEST_3_bad_category_date,True,income_level: income_level has an unknown value (value: Super rich) | indicator_code: indicator_code must be SP.POP.TOTL (value: WRONG.CODE) | collected_at: collected_at is not a valid date/time (value: not-a-date)
+TEST_4_text_population,True,population: population must be numeric (value: many) | population: population must be between 1 and 2000000000 (value: many)
+TEST_5_duplicate_key,True,"duplicate record: (country_code, year) is not unique"

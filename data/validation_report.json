@@ -1,0 +1,10 @@
+{
+  "received": 250,
+  "valid": 250,
+  "invalid": 0,
+  "tests": {
+    "test_records": 5,
+    "test_records_detected": 5,
+    "control_accepted": true
+  }
+}

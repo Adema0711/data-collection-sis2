@@ -1,0 +1,11 @@
+column,value,records
+region,Europe & Central Asia,75
+region,East Asia & Pacific,50
+region,Latin America & Caribbean,25
+region,"Middle East, North Africa, Afghanistan & Pakistan",25
+region,South Asia,25
+region,Sub-Saharan Africa,25
+region,North America,25
+income_level,High income,100
+income_level,Upper middle income,75
+income_level,Lower middle income,75

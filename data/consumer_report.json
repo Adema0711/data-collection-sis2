@@ -1,0 +1,8 @@
+{
+  "expected": 250,
+  "consumed": 250,
+  "decoded": 250,
+  "decode_errors": 0,
+  "kafka_errors": 0,
+  "stop_reason": "all messages consumed"
+}
