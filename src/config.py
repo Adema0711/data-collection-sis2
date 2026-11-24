@@ -23,3 +23,15 @@ KAFKA_BOOTSTRAP = os.getenv("KAFKA_BOOTSTRAP", "localhost:9092")
 KAFKA_TOPIC = os.getenv("KAFKA_TOPIC", "worldbank_population")
 KAFKA_PARTITIONS = 1
 KAFKA_REPLICATION = 1
+
+# --- Part 2: Kafka Consumer and Pandera validation ---
+KAFKA_GROUP_ID = os.getenv("KAFKA_GROUP_ID", "worldbank_consumer_group")
+CONSUMER_IDLE_TIMEOUT = 15        # seconds without messages before the consumer stops
+CONSUMER_STARTUP_TIMEOUT = 30     # seconds to wait for the broker / partition assignment
+
+CONSUMED_JSON = DATA_DIR / "consumed_data.json"             # all messages received from Kafka
+VALID_CSV = DATA_DIR / "valid_data.csv"                     # records that passed validation (input for cleaner.py)
+INVALID_CSV = DATA_DIR / "invalid_data.csv"                 # records that failed validation + reasons
+TEST_VALIDATION_CSV = DATA_DIR / "validation_test_results.csv"  # deliberately broken test records (never used downstream)
+VALIDATION_REPORT_JSON = DATA_DIR / "validation_report.json"    # counters of the validation stage
+CONSUMER_REPORT_JSON = DATA_DIR / "consumer_report.json"        # counters of the consumer stage
